@@ -1,0 +1,4 @@
+---
+title: "Séances"
+listing: posts
+---

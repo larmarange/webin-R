@@ -1,5 +1,17 @@
 ---
 title: "webin-R"
+description: |
+  un wébinaire sur l'analyse d'enquêtes avec R et RStudio
 site: distill::distill_website
-listing: posts
 ---
+
+une courte présentation du projet sera prochainement ajoutée.
+
+## Comment participer ?
+
+à venir
+
+## Programme
+
+à venir
+

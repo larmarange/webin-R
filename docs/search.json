@@ -1,19 +1,19 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-06T18:25:31+01:00"
-    },
-    {
       "path": "index.html",
       "title": "webin-R",
+      "description": "un wébinaire sur l'analyse d'enquêtes avec R et RStudio\n",
+      "author": [],
+      "contents": "\r\nune courte présentation du projet sera prochainement ajoutée.\r\nComment participer ?\r\nà venir\r\nProgramme\r\nà venir\r\n\r\n\r\n\r\n",
+      "last_modified": "2020-11-08T10:59:09+01:00"
+    },
+    {
+      "path": "seances.html",
+      "title": "Séances",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-11-06T18:25:32+01:00"
+      "last_modified": "2020-11-08T10:59:10+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
