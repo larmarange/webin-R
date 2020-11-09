@@ -20,4 +20,5 @@ collections:
   posts:
     disqus: webin-R
     share: [facebook, twitter, linkedin]
+    subscribe: _subscribe.html
 output: distill::distill_article
