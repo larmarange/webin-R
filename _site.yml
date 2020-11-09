@@ -16,4 +16,8 @@ navbar:
       href: seances.xml
 rss:
   full_content: true
+collections:
+  posts:
+    disqus: webin-R
+    share: [facebook, twitter, linkedin]
 output: distill::distill_article
