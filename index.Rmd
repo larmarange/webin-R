@@ -1,17 +1,68 @@
 ---
 title: "webin-R"
 description: |
-  un wébinaire sur l'analyse d'enquêtes avec R et RStudio
+  un wébinaire hebdomadaire sur l'analyse d'enquêtes avec R et RStudio
 site: distill::distill_website
 ---
 
-une courte présentation du projet sera prochainement ajoutée.
+webin-R est un wébinaire hebdomadaire de deux heures, **tous les jeudis de 17h à 19h** (CET heure de Paris).
+webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus accessibles sur <https://larmarange.github.io/analyse-R/>.
 
 ## Comment participer ?
 
-à venir
+webin-R est diffusé en live via l'application Zoom. Les liens de connexion sont diffusés par email.
 
-## Programme
+Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de connexion hebdomadaires, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe webin-R).
 
-à venir
+Pendant une session, nous vous invitons à couper votre microphone et votre caméra. Vous pouvez poser vos questions via l'espace de discussion.
+
+Les sessions sont enregistrées et les vidéos des sessions précédentes sont accessibles via le menu [Séances](seances.html).
+
+## Programme provisoire
+
+Le programme est en cours de construction et susceptible de changer.
+
+- **26 novembre 2020 :** Premier contact avec `R` & `RStudio`
+    - installation
+    - présentation de l'interface
+    - premier pas avec `R`
+    - installer et charger des packages
+- **3 décembre 2020 :** Les bases du language
+    - vecteurs, indexation et assignation
+    - listes & tableaux de données
+    - facteurs
+- **10 décembre 2020 :** Statistiques descriptives
+   - statistiques uni- et bivariées
+   - tests statistiques
+   - tableaux descriptifs avec `gtsummary`
+   - tests de comparaisons
+- **17 décembre 2020 :** Session FAQ
+   - session de questions / réponses
+   - vous pouvez venir avec des problèmes spécifiques que vous rencontrez
+- **14 janvier 2021 :** Import et organisation de ses données
+    - introduction au `tidyverse`
+    - données labellisées et `labelled`
+    - la notion de projets dans `RStudio`
+    - organiser des scripts
+    - import de données avec `reader`, `readxl` et `haven`
+- **21 janvier 2021 :** Manipuler ses données avec `dplyr`
+- **28 janvier 2021 :** Recodages de variables
+- **4 février 2021 :** Régression logistique partie 1
+- **11 février 2021 :** Régression logistique partie 2
+- **18 février 2021 :** Session FAQ
+- Retour sur `ggplot2` et la grammaire des graphiques
+- Données pondérées, plan d'échantillonnage complexe et `survey`
+- Rapports automatisées : introduction à `Rmarkdown`
+- Manipulations avancée de données
+    - réorganiser ses tableaux avec `tidyr`
+    - fusion de tables
+    - gestion des dates avec `lubridate`
+    - fonctions à fenêtre
+- Analyse de survie
+- Analyse des correspondances multiples (ACM)
+- Classification ascendante hiérarchique (CAH)
+- Analyse de séquences avec `TraMineR`
+- Exemples de graphiques avancés avec `ggplot2`
+- Trajectoires de soins : comparaison de plusieurs approches biographiques
+- Manipulation de gros tableaux de données avec `data.table`
 
