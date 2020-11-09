@@ -4,6 +4,7 @@ description: |
   un webinaire sur l'analyse d'enquêtes avec R et RStudio
 output_dir: "docs"
 base_url: https://larmarange.github.io/webin-R/
+repository_url: https://github.com/larmarange/webin-R
 navbar:
   logo: images/webin-R-white.png
   right:
@@ -13,8 +14,11 @@ navbar:
       href: seances.html
     - text: "analyse-R"
       href: https://larmarange.github.io/analyse-R/
+    - icon: fa fa-youtube
+      href: https://www.youtube.com/channel/UCF9ymC7Dpjwr0lge2QR_A5Q
     - icon: fa fa-rss
       href: seances.xml
+  source_url: true
 rss:
   full_content: true
 collections:
