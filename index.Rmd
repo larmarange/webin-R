@@ -5,7 +5,9 @@ description: |
 site: distill::distill_website
 ---
 
-webin-R est un wébinaire hebdomadaire de deux heures, **tous les jeudis de 17h à 19h** (CET heure de Paris). webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus accessibles sur <https://larmarange.github.io/analyse-R/>.
+![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"}
+webin-R est un wébinaire hebdomadaire de deux heures, **tous les jeudis de 17h à 19h** (CET heure de Paris).<br />
+webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus accessibles sur <https://larmarange.github.io/analyse-R/>.
 
 ## Comment participer ?
 
