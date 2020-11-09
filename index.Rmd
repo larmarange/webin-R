@@ -66,35 +66,23 @@ Le programme est en cours de construction et susceptible de changer.
 |                      | *Session de questions / réponses, venez avec vos problèmes*                                                        |
 +----------------------+--------------------------------------------------------------------------------------------------------------------+
 
-**Férvrier-Mars 2021 :**
+**Février-Mars 2021 :**
 
 -   Retour sur `ggplot2` et la grammaire des graphiques
-
 -   Données pondérées, plan d'échantillonnage complexe et `survey`
-
 -   Rapports automatisées : introduction à `Rmarkdown`
-
 -   Manipulations avancée de données
-
     -   réorganiser ses tableaux avec `tidyr`
     -   fusion de tables
     -   gestion des dates avec `lubridate`
     -   fonctions à fenêtre
     
-**Avril-Mai 2021 :**
+**Avril-Juin 2021 :**
 
 -   Analyse de survie
-
 -   Analyse des correspondances multiples (ACM)
-
 -   Classification ascendante hiérarchique (CAH)
-
 -   Analyse de séquences avec `TraMineR`
-
-**Juin 2021 :**
-
 -   Exemples de graphiques avancés avec `ggplot2`
-
 -   Trajectoires de soins : comparaison de plusieurs approches biographiques
-
 -   Manipulation de gros tableaux de données avec `data.table`
