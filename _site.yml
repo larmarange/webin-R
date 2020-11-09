@@ -12,4 +12,8 @@ navbar:
       href: seances.html
     - text: "analyse-R"
       href: https://larmarange.github.io/analyse-R/
+    - icon: fa fa-rss
+      href: seances.xml
+rss:
+  full_content: true
 output: distill::distill_article
