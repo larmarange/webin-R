@@ -1,19 +1,19 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to webin-R",
-    "description": "Welcome to our new blog, webin-R. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/2020-11-26-premier-contact-avec-r-rstudio/",
+    "title": "Premier contact avec R & RStudio",
+    "description": "A short description of the post.",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
       }
     ],
-    "date": "2020-11-06",
+    "date": "2020-11-26",
     "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
+    "contents": "\r\ninstallation\r\nprésentation de l’interface\r\npremier pas avec R\r\ninstaller et charger des packages\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-11-08T11:02:07+01:00",
+    "last_modified": "2020-11-09T08:59:28+01:00",
     "input_file": {}
   }
 ]
