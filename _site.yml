@@ -5,6 +5,7 @@ description: |
 output_dir: "docs"
 base_url: https://larmarange.github.io/webin-R/
 repository_url: https://github.com/larmarange/webin-R
+favicon: images/favicon.png
 navbar:
   logo: images/webin-R-white.png
   right:
