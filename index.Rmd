@@ -54,7 +54,7 @@ Le programme est en cours de construction et susceptible de changer.
 |                      | -   données labellisées et `labelled`                                                                              |
 |                      | -   la notion de projets dans `RStudio`                                                                            |
 |                      | -   organiser des scripts                                                                                          |
-|                      | -   import de données avec `reader`, `readxl` et `haven`                                                           |
+|                      | -   import de données avec `readr`, `readxl` et `haven`                                                            |
 +----------------------+--------------------------------------------------------------------------------------------------------------------+
 | **21 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                 |
 +----------------------+--------------------------------------------------------------------------------------------------------------------+
