@@ -22,9 +22,9 @@ Pendant une session, nous vous invitons à couper votre microphone et votre cam�
 
 Les sessions sont enregistrées et les vidéos des sessions précédentes sont accessibles via le menu [Séances](seances.html).
 
-## Programme provisoire
+## Programme
 
-Le programme est en cours de construction et susceptible de changer.
+Le programme est en cours de construction et susceptible d'évoluer.
 
 ```{=html}
 <style>
@@ -74,6 +74,7 @@ Le programme est en cours de construction et susceptible de changer.
 -   Retour sur `ggplot2` et la grammaire des graphiques
 -   Données pondérées, plan d'échantillonnage complexe et `survey`
 -   Rapports automatisées : introduction à `Rmarkdown`
+    - mise en forme de tableaux avec `gt`, `kable` et `kableExtra`
 -   Manipulations avancée de données
     -   réorganiser ses tableaux avec `tidyr`
     -   fusion de tables
