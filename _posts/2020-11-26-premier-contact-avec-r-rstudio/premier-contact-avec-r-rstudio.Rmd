@@ -8,6 +8,7 @@ author:
     affiliation: Ceped, IRD
     affiliation_url: https://www.ceped.org
 date: 2020-11-26
+creative_commons: CC BY-SA
 output:
   distill::distill_article:
     self_contained: false
