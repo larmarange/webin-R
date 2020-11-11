@@ -3,6 +3,7 @@ title: "webin-R"
 description: |
   un webinaire sur l'analyse d'enquêtes avec R et RStudio
 output_dir: "docs"
+theme: webin-R.css 
 base_url: https://larmarange.github.io/webin-R/
 repository_url: https://github.com/larmarange/webin-R
 favicon: images/favicon.png
