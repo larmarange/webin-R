@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-11-26-premier-contact-avec-r-rstudio/",
     "title": "Premier contact avec R & RStudio",
-    "description": "webin-R du 26 novembre 2020",
+    "description": "webin-R #01 du 26 novembre 2020",
     "author": [
       {
         "name": "Joseph Larmarange",
@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\ninstallation\r\nprésentation de l’interface\r\npremier pas avec R\r\ninstaller et charger des packages\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-11-11T09:45:16+01:00",
+    "last_modified": "2020-11-18T01:12:57+01:00",
     "input_file": {}
   }
 ]
