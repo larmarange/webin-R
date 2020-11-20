@@ -14,6 +14,9 @@ webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-
 
 webin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu [Séances](seances.html).
 
+<script src="https://apis.google.com/js/platform.js"></script>
+<div style="margin: 0px 0 17px 0;"><div class="g-ytsubscribe" data-channelid="UCF9ymC7Dpjwr0lge2QR_A5Q" data-layout="full" data-count="default"></div></div>
+
 Les liens de connexion à la plateforme de diffusion sont diffusés par email.
 
 Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de connexion hebdomadaires, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa\@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe%20webin-R).
