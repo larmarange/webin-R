@@ -34,7 +34,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Liens
 
-- analyse-R : <https://larmarange.github.io/>
+- analyse-R : <https://larmarange.github.io/analyse-R/>
 - R : <https://www.r-project.org/>
 - R Studio : <https://rstudio.com/>
 
