@@ -5,17 +5,19 @@ description: |
 site: distill::distill_website
 ---
 
-![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"}
-webin-R est un wébinaire hebdomadaire de deux heures,<br />
-**tous les jeudis de 17h à 19h** (CET heure de Paris).<br />
-webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus.
+![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire hebdomadaire de deux heures,<br /> **tous les jeudis de 17h à 19h** (CET heure de Paris).<br /> webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus.
 
 ## Comment participer ?
 
 webin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu [Séances](seances.html).
 
+```{=html}
 <script src="https://apis.google.com/js/platform.js"></script>
-<div style="margin: 0px 0 17px 0;"><div class="g-ytsubscribe" data-channelid="UCF9ymC7Dpjwr0lge2QR_A5Q" data-layout="full" data-count="default"></div></div>
+```
+::: {style="margin: 0px 0 17px 0;"}
+::: {.g-ytsubscribe data-channelid="UCF9ymC7Dpjwr0lge2QR_A5Q" data-layout="full" data-count="default"}
+:::
+:::
 
 Les liens de connexion à la plateforme de diffusion sont diffusés par email.
 
@@ -30,56 +32,57 @@ Le programme est en cours de construction et susceptible d'évoluer.
   td {vertical-align: top;}
 </style>
 ```
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **26 novembre 2020** | Premier contact avec R & RStudio                                                                                   |
-|                      |                                                                                                                    |
-|                      | *installation, présentation de l'interface, premiers pas avec R, installer et charger des packages*                |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **3 décembre 2020**  | Les bases du language                                                                                              |
-|                      |                                                                                                                    |
-|                      | *vecteurs, indexation, assignation, listes, tableaux de données, facteurs*                                         |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **10 décembre 2020** | Statistiques descriptives                                                                                          |
-|                      |                                                                                                                    |
-|                      | *statistiques uni- et bivariées, tests statistiques, tableaux descriptifs avec `gtsummary`, tests de comparaisons* |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **17 décembre 2020** | Session FAQ                                                                                                        |
-|                      |                                                                                                                    |
-|                      | *Session de questions / réponses, venez avec vos problèmes*                                                        |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **14 janvier 2021**  | Import et organisation de ses données                                                                              |
-|                      |                                                                                                                    |
-|                      | -   introduction au `tidyverse`                                                                                    |
-|                      | -   données labellisées et `labelled`                                                                              |
-|                      | -   la notion de projets dans `RStudio`                                                                            |
-|                      | -   organiser des scripts                                                                                          |
-|                      | -   import de données avec `readr`, `readxl` et `haven`                                                            |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **21 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                 |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **28 janvier 2021**  | Recodage de variables                                                                                              |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **4 février 2021**   | Régression logistique partie 1                                                                                     |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **11 février 2021**  | Régression logistique partie 2                                                                                     |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
-| **18 février 2021**  | Session FAQ                                                                                                        |
-|                      |                                                                                                                    |
-|                      | *Session de questions / réponses, venez avec vos problèmes*                                                        |
-+----------------------+--------------------------------------------------------------------------------------------------------------------+
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **26 novembre 2020** | Premier contact avec R & RStudio                                                                                               |
+|                      |                                                                                                                                |
+|                      | *installation, présentation de l'interface, premiers pas avec R, installer et charger des packages*                            |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **3 décembre 2020**  | Les bases du language R                                                                                                        |
+|                      |                                                                                                                                |
+|                      | *vecteurs, indexation, assignation, listes, tableaux de données, facteurs, import de fichiers texte*                           |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **10 décembre 2020** | Statistiques descriptives                                                                                                      |
+|                      |                                                                                                                                |
+|                      | *statistiques uni- et bivariées, tests statistiques, tableaux descriptifs avec `gtsummary`, graphiques simple avec `esquisse`* |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **17 décembre 2020** | Session FAQ                                                                                                                    |
+|                      |                                                                                                                                |
+|                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **14 janvier 2021**  | Import et organisation de ses données                                                                                          |
+|                      |                                                                                                                                |
+|                      | *Introduction au `tidyverse`, données labellisées et `labelled`, import de données avec `readr`, `readxl` et `haven`*          |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **21 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                             |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **28 janvier 2021**  | Recodage de variables                                                                                                          |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **4 février 2021**   | Régression logistique partie 1                                                                                                 |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **11 février 2021**  | Régression logistique partie 2                                                                                                 |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
+| **18 février 2021**  | Session FAQ                                                                                                                    |
+|                      |                                                                                                                                |
+|                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
++----------------------+--------------------------------------------------------------------------------------------------------------------------------+
 
 **Février-Mars 2021 :**
 
 -   Retour sur `ggplot2` et la grammaire des graphiques
+
 -   Données pondérées, plan d'échantillonnage complexe et `survey`
+
 -   Rapports automatisées : introduction à `Rmarkdown`
-    - mise en forme de tableaux avec `gt`, `kable` et `kableExtra`
+
+    -   mise en forme de tableaux avec `gt`, `kable` et `kableExtra`
+
 -   Manipulations avancée de données
+
     -   réorganiser ses tableaux avec `tidyr`
     -   fusion de tables
     -   gestion des dates avec `lubridate`
     -   fonctions à fenêtre
-    
+
 **Avril-Juin 2021 :**
 
 -   Analyse de survie
@@ -92,12 +95,12 @@ Le programme est en cours de construction et susceptible d'évoluer.
 
 ## Licence
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Les contenus de ce site sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Licence Creative Commons" style="border-width:0"/></a><br />Les contenus de ce site sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International</a>.
 
 ## Partenaires
 
-<a href="https://www.ceped.org"><img src="images/logo_ceped.png" style="height:75px; width:auto;" /></a>
+<a href="https://www.ceped.org"><img src="images/logo_ceped.png" style="height:75px; width:auto;"/></a>
 
-<a href="https://www.ird.fr"><img src="images/logo_ird.png" style="height:50px; width:auto;" /></a>
+<a href="https://www.ird.fr"><img src="images/logo_ird.png" style="height:50px; width:auto;"/></a>
 
-<a href="https://www.ecolehed.fr/"><img src="images/logo_hed.jpg" style="height:75px; width:auto;" /></a>
+<a href="https://www.ecolehed.fr/"><img src="images/logo_hed.jpg" style="height:75px; width:auto;"/></a>
