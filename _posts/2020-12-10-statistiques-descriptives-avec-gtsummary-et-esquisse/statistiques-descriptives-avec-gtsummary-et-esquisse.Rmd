@@ -29,3 +29,9 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Statistique univariée](https://larmarange.github.io/analyse-R/statistique-univariee.html)
 - [Statistique bivariée](https://larmarange.github.io/analyse-R/statistique-bivariee.html)
 - [Graphiques univariés et bivariés avec ggplot2](https://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)
+
+### Ressources en anglais
+
+- [le site de `gtsummary`](https://www.danieldsjoberg.com/gtsummary/) (tableaux univariés et bivariés)
+- [le site d'`esquisse`](https://dreamrs.github.io/esquisse/) (aide à la création de graphiques `ggplot2`)
+- [création d'un rapport à partir d'un script](https://rmarkdown.rstudio.com/articles_report_from_r_script.html) (aide de RStudio)
