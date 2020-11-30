@@ -1,0 +1,31 @@
+---
+title: "Statistiques descriptives avec gtsummary et esquisse"
+description: |
+  webin-R #03 du 10 décembre 2020
+author:
+  - name: Joseph Larmarange
+    url: https://joseph.larmarange.net
+    affiliation: Ceped, IRD
+    affiliation_url: https://www.ceped.org
+date: 12-10-2020
+creative_commons: CC BY-SA
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/oEF_8GXyP5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Chapitres analyse-R
+
+- [Statistique univariée](https://larmarange.github.io/analyse-R/statistique-univariee.html)
+- [Statistique bivariée](https://larmarange.github.io/analyse-R/statistique-bivariee.html)
+- [Graphiques univariés et bivariés avec ggplot2](https://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)
