@@ -36,3 +36,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [le site de `gtsummary`](https://www.danieldsjoberg.com/gtsummary/) (tableaux univariés et bivariés)
 - [le site d'`esquisse`](https://dreamrs.github.io/esquisse/) (aide à la création de graphiques `ggplot2`)
 - [création d'un rapport à partir d'un script](https://rmarkdown.rstudio.com/articles_report_from_r_script.html) (aide de RStudio)
+
+### Fichier de données
+
+- [trial.xlsx](https://larmarange.github.io/analyse-R/data/trial.xlsx)
