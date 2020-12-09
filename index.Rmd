@@ -34,10 +34,6 @@ Le programme est en cours de construction et susceptible d'évoluer.
 </style>
 ```
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **3 décembre 2020**  | Les bases du language R                                                                                                        |
-|                      |                                                                                                                                |
-|                      | *vecteurs, indexation, assignation, listes, tableaux de données, facteurs, import de fichiers texte*                           |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
 | **10 décembre 2020** | Statistiques descriptives avec `gtsummary` et `esquisse`                                                                       |
 |                      |                                                                                                                                |
 |                      | *statistiques uni- et bivariées, tests statistiques, tableaux descriptifs avec `gtsummary`, graphiques simple avec `esquisse`* |
@@ -46,19 +42,15 @@ Le programme est en cours de construction et susceptible d'évoluer.
 |                      |                                                                                                                                |
 |                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **14 janvier 2021**  | Import et organisation de ses données                                                                                          |
-|                      |                                                                                                                                |
-|                      | *Introduction au `tidyverse`, données labellisées et `labelled`, import de données avec `readr`, `readxl` et `haven`*          |
+| **14 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                             |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **21 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                             |
+| **21 janvier 2021**  | Recodage de variables                                                                                                          |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **28 janvier 2021**  | Recodage de variables                                                                                                          |
+| **28 janvier 2021**  | Régression logistique partie 1                                                                                                 |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **4 février 2021**   | Régression logistique partie 1                                                                                                 |
+| **4 février 2021**   | Régression logistique partie 2                                                                                                 |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **11 février 2021**  | Régression logistique partie 2                                                                                                 |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **18 février 2021**  | Session FAQ                                                                                                                    |
+| **11 février 2021**  | Session FAQ                                                                                                                    |
 |                      |                                                                                                                                |
 |                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
 +----------------------+--------------------------------------------------------------------------------------------------------------------------------+

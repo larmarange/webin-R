@@ -26,6 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Chapitres analyse-R
 
+- [Organiser ses fichiers](http://larmarange.github.io/analyse-R/organiser-ses-fichiers.html)
 - [Statistique univariée](https://larmarange.github.io/analyse-R/statistique-univariee.html)
 - [Statistique bivariée](https://larmarange.github.io/analyse-R/statistique-bivariee.html)
 - [Graphiques univariés et bivariés avec ggplot2](https://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)

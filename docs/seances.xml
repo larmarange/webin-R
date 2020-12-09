@@ -12,7 +12,15 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 10 déc. 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>jeu., 17 déc. 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Foire aux questions</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions</link>
+      <description>webin-R FAQ du 17 dÃ©cembre 2020</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions</guid>
+      <pubDate>jeu., 17 déc. 2020 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Statistiques descriptives avec gtsummary et esquisse</title>
       <dc:creator>Joseph Larmarange</dc:creator>

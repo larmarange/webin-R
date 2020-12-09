@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://larmarange.github.io/webin-R/</loc>
-    <lastmod>2020-11-30T18:46:38+01:00</lastmod>
+    <lastmod>2020-12-09T13:17:39+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/seances.html</loc>
     <lastmod>2020-11-24T14:17:57+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions/</loc>
+    <lastmod>2020-12-09T13:12:19+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/</loc>

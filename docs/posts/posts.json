@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-12-17-foire-aux-questions/",
+    "title": "Foire aux questions",
+    "description": "webin-R FAQ du 17 décembre 2020",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2020-12-17",
+    "categories": [],
+    "contents": "\r\n\r\nUne session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2020-12-09T13:12:19+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/",
     "title": "Statistiques descriptives avec gtsummary et esquisse",
     "description": "webin-R #03 du 10 décembre 2020",
