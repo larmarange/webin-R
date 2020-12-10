@@ -30,6 +30,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Statistique univariée](https://larmarange.github.io/analyse-R/statistique-univariee.html)
 - [Statistique bivariée](https://larmarange.github.io/analyse-R/statistique-bivariee.html)
 - [Graphiques univariés et bivariés avec ggplot2](https://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)
+- [Tests de comparaison](http://larmarange.github.io/analyse-R/comparaisons-moyennes-et-proportions.html)
 
 ### Ressources en anglais
 
