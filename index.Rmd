@@ -24,36 +24,32 @@ Les liens de connexion à la plateforme de diffusion sont diffusés par email.
 
 Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de connexion hebdomadaires, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa\@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe%20webin-R).
 
-## Programme
+## Programme (prochaines séances)
 
-Le programme est en cours de construction et susceptible d'évoluer.
+Le programme est susceptible d'évoluer.
 
 ```{=html}
 <style>
   td {vertical-align: top;}
 </style>
 ```
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **10 décembre 2020** | Statistiques descriptives avec `gtsummary` et `esquisse`                                                                       |
-|                      |                                                                                                                                |
-|                      | *statistiques uni- et bivariées, tests statistiques, tableaux descriptifs avec `gtsummary`, graphiques simple avec `esquisse`* |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **17 décembre 2020** | Session FAQ                                                                                                                    |
-|                      |                                                                                                                                |
-|                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **14 janvier 2021**  | Manipuler ses données avec `dplyr`                                                                                             |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **21 janvier 2021**  | Recodage de variables                                                                                                          |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **28 janvier 2021**  | Régression logistique partie 1                                                                                                 |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **4 février 2021**   | Régression logistique partie 2                                                                                                 |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
-| **11 février 2021**  | Session FAQ                                                                                                                    |
-|                      |                                                                                                                                |
-|                      | *Session de questions / réponses, venez avec vos problèmes*                                                                    |
-+----------------------+--------------------------------------------------------------------------------------------------------------------------------+
++----------------------+-------------------------------------------------------------+
+| **17 décembre 2020** | Session FAQ                                                 |
+|                      |                                                             |
+|                      | *Session de questions / réponses, venez avec vos problèmes* |
++----------------------+-------------------------------------------------------------+
+| **14 janvier 2021**  | Manipuler ses données avec `dplyr`                          |
++----------------------+-------------------------------------------------------------+
+| **21 janvier 2021**  | Recodage de variables                                       |
++----------------------+-------------------------------------------------------------+
+| **28 janvier 2021**  | Régression logistique partie 1                              |
++----------------------+-------------------------------------------------------------+
+| **4 février 2021**   | Régression logistique partie 2                              |
++----------------------+-------------------------------------------------------------+
+| **11 février 2021**  | Session FAQ                                                 |
+|                      |                                                             |
+|                      | *Session de questions / réponses, venez avec vos problèmes* |
++----------------------+-------------------------------------------------------------+
 
 **Février-Mars 2021 :**
 
