@@ -17,7 +17,7 @@ navbar:
     - text: "analyse-R"
       href: https://larmarange.github.io/analyse-R/
     - icon: fa fa-youtube
-      href: https://www.youtube.com/channel/UCF9ymC7Dpjwr0lge2QR_A5Q
+      href: https://www.youtube.com/c/webinR
     - icon: fa fa-rss
       href: seances.xml
   source_url: true
