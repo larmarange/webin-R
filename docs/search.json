@@ -6,14 +6,14 @@
       "description": "un wébinaire hebdomadaire sur l'analyse d'enquêtes avec R et RStudio\n",
       "author": [],
       "contents": "\r\n webin-R est un wébinaire hebdomadaire de deux heures,tous les jeudis de 17h à 19h (CET heure de Paris). webin-R s’appuie sur le projet analyse-R dont il reprend les contenus.\r\nComment participer ?\r\nwebin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu Séances.\r\n\r\n\r\n\r\n\r\n\r\nLes liens de connexion à la plateforme de diffusion sont diffusés par email.\r\nPour s’inscrire à la liste de diffusion webin-R et recevoir les liens de connexion hebdomadaires, il vous suffit d’envoyer un email avec pour objet subscribe webin-R à sympa@listes.ird.fr.\r\nProgramme (prochaines séances)\r\nLe programme est susceptible d’évoluer.\r\n\r\n  td {vertical-align: top;}\r\n14 janvier 2021\r\nManipuler les données avec dplyr\r\n21 janvier 2021\r\nRecodage de variables\r\n28 janvier 2021\r\nRégression logistique partie 1\r\n4 février 2021\r\nRégression logistique partie 2\r\n11 février 2021\r\nSession FAQ\r\nSession de questions / réponses, venez avec vos problèmes\r\nFévrier-Mars 2021 :\r\nRetour sur ggplot2 et la grammaire des graphiques\r\nDonnées pondérées, plan d’échantillonnage complexe et survey\r\nRapports automatisées : introduction à Rmarkdown\r\nmise en forme de tableaux avec gt, kable et kableExtra\r\n\r\nManipulations avancée de données\r\nréorganiser ses tableaux avec tidyr\r\nfusion de tables\r\ngestion des dates avec lubridate\r\nfonctions à fenêtre\r\n\r\nAvril-Juin 2021 :\r\nAnalyse de survie\r\nAnalyse des correspondances multiples (ACM)\r\nClassification ascendante hiérarchique (CAH)\r\nAnalyse de séquences avec TraMineR\r\nExemples de graphiques avancés avec ggplot2\r\nTrajectoires de soins : comparaison de plusieurs approches biographiques\r\nManipulation de gros tableaux de données avec data.table\r\nLicence\r\nLes contenus de ce site sont mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\r\nPartenaires\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-17T19:30:09+01:00"
+      "last_modified": "2020-12-31T11:48:11+04:00"
     },
     {
       "path": "seances.html",
       "title": "Séances",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2020-12-17T19:30:10+01:00"
+      "last_modified": "2020-12-31T11:48:13+04:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\r\n\r\nUne session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-12-09T13:12:19+01:00",
+    "last_modified": "2020-12-09T16:12:19+04:00",
     "input_file": {}
   },
   {
@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nChapitres analyse-R\r\nOrganiser ses fichiers\r\nStatistique univariée\r\nStatistique bivariée\r\nGraphiques univariés et bivariés avec ggplot2\r\nTests de comparaison\r\nRessources en anglais\r\nle site de gtsummary (tableaux univariés et bivariés)\r\nle site d’esquisse (aide à la création de graphiques ggplot2)\r\ncréation d’un rapport à partir d’un script (aide de RStudio)\r\nFichier de données\r\ntrial.xlsx\r\nscripts de la session\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-12-10T18:58:22+01:00",
+    "last_modified": "2020-12-10T21:58:22+04:00",
     "input_file": {}
   },
   {
@@ -47,7 +47,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nChapitres analyse-R\r\nVecteurs, indexation et assignation\r\nListes et tableaux de données\r\nFacteurs et vecteurs labellisés\r\nOrganiser ses fichiers\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-11-30T18:52:20+01:00",
+    "last_modified": "2020-11-30T21:52:20+04:00",
     "input_file": {}
   },
   {
@@ -64,7 +64,7 @@
     "categories": [],
     "contents": "\r\n\r\n\r\nChapitres analyse-R\r\nPrésentation et philosophie\r\nInstallation de R et RStudio\r\nPremier contact\r\nPremier travail avec les données\r\nExtensions (installation, mise à jour)\r\nOù trouver de l’aide ?\r\nLiens\r\nanalyse-R : https://larmarange.github.io/analyse-R/\r\nR : https://www.r-project.org/\r\nR Studio : https://rstudio.com/\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2020-11-23T17:22:22+01:00",
+    "last_modified": "2020-11-23T20:22:22+04:00",
     "input_file": {}
   }
 ]

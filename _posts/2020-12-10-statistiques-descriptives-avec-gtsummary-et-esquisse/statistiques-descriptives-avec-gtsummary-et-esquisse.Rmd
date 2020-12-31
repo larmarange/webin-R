@@ -39,4 +39,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Fichier de données
 
 - [trial.xlsx](https://larmarange.github.io/analyse-R/data/trial.xlsx)
-- [scripts de la session](webin-R-03.zip)
+- [scripts de la session](https://github.com/larmarange/webin-R/raw/main/docs/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/webin-R-03.zip)
