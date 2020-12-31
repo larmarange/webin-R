@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://larmarange.github.io/webin-R/</loc>
-    <lastmod>2020-12-17T22:13:55+04:00</lastmod>
+    <lastmod>2020-12-31T09:19:40+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/seances.html</loc>
-    <lastmod>2020-11-24T17:17:57+04:00</lastmod>
+    <lastmod>2020-12-31T09:19:40+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions/</loc>
-    <lastmod>2020-12-09T16:12:19+04:00</lastmod>
+    <lastmod>2020-12-31T09:19:40+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/</loc>
-    <lastmod>2020-12-10T21:58:22+04:00</lastmod>
+    <lastmod>2020-12-31T09:20:14+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r/</loc>
-    <lastmod>2020-11-30T21:52:20+04:00</lastmod>
+    <lastmod>2020-12-31T09:19:37+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio/</loc>
-    <lastmod>2020-11-23T20:22:22+04:00</lastmod>
+    <lastmod>2020-12-31T09:19:37+01:00</lastmod>
   </url>
 </urlset>

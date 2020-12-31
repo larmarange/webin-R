@@ -12,7 +12,7 @@ navbar:
   right:
     - text: "Programme"
       href: index.html
-    - text: "Seances"
+    - text: "Séances"
       href: seances.html
     - text: "analyse-R"
       href: https://larmarange.github.io/analyse-R/
