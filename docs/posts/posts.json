@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-01-14-manipuler-les-donnees-avec-dplyr/",
+    "title": "Manipuler les données avec dplyr",
+    "description": "webin-R #04 du 14 Janvier 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-01-14",
+    "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nManipuler les données avec dplyr\nRessources en anglais\nData Transformation Cheatsheet\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-12T17:48:01+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2020-12-17-foire-aux-questions/",
     "title": "Foire aux questions",
     "description": "webin-R FAQ du 17 décembre 2020",

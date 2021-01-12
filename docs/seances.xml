@@ -12,7 +12,15 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Manipuler les données avec dplyr</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr</link>
+      <description>webin-R #04 du 14 Janvier 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr</guid>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Foire aux questions</title>
       <dc:creator>Joseph Larmarange</dc:creator>
