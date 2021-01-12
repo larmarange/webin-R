@@ -11,8 +11,10 @@
     ],
     "date": "2020-12-17",
     "categories": [],
+    "contents": "\n\nUne session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-31T09:19:40+01:00"
+    "last_modified": "2020-12-31T09:19:40+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/",
@@ -26,8 +28,10 @@
     ],
     "date": "2020-12-10",
     "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nOrganiser ses fichiers\nStatistique univariée\nStatistique bivariée\nGraphiques univariés et bivariés avec ggplot2\nTests de comparaison\nRessources en anglais\nle site de gtsummary (tableaux univariés et bivariés)\nle site d’esquisse (aide à la création de graphiques ggplot2)\ncréation d’un rapport à partir d’un script (aide de RStudio)\nFichier de données\ntrial.xlsx\nscripts de la session\n",
     "preview": {},
-    "last_modified": "2020-12-31T09:20:14+01:00"
+    "last_modified": "2020-12-31T09:20:14+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2020-12-03-les-bases-du-language-r/",
@@ -41,8 +45,10 @@
     ],
     "date": "2020-12-03",
     "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nVecteurs, indexation et assignation\nListes et tableaux de données\nFacteurs et vecteurs labellisés\nOrganiser ses fichiers\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-31T09:19:37+01:00"
+    "last_modified": "2020-12-31T09:19:37+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2020-11-26-premier-contact-avec-r-rstudio/",
@@ -56,7 +62,9 @@
     ],
     "date": "2020-11-26",
     "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nPrésentation et philosophie\nInstallation de R et RStudio\nPremier contact\nPremier travail avec les données\nExtensions (installation, mise à jour)\nOù trouver de l’aide ?\nLiens\nanalyse-R : https://larmarange.github.io/analyse-R/\nR : https://www.r-project.org/\nR Studio : https://rstudio.com/\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-31T09:19:37+01:00"
+    "last_modified": "2020-12-31T09:19:37+01:00",
+    "input_file": {}
   }
 ]

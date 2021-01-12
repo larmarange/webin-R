@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "webin-R",
+      "description": "un wébinaire hebdomadaire sur l'analyse d'enquêtes avec R et RStudio\n",
+      "author": [],
+      "contents": "\n webin-R est un wébinaire hebdomadaire de deux heures,tous les jeudis de 17h à 19h (CET heure de Paris). webin-R s’appuie sur le projet analyse-R dont il reprend les contenus.\nComment participer ?\nwebin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu Séances.\n\n\n\n\n\nLes liens de connexion à la plateforme de diffusion sont diffusés par email.\nPour s’inscrire à la liste de diffusion webin-R et recevoir les liens de connexion hebdomadaires, il vous suffit d’envoyer un email avec pour objet subscribe webin-R à sympa@listes.ird.fr.\nProgramme (prochaines séances)\nLe programme est susceptible d’évoluer.\n\n  td {vertical-align: top;}\n14 janvier 2021\nManipuler les données avec dplyr\n21 janvier 2021\nRecodage de variables\n28 janvier 2021\nRégression logistique partie 1\n4 février 2021\nRégression logistique partie 2\n11 février 2021\nSession FAQ\nSession de questions / réponses, venez avec vos problèmes\nFévrier-Mars 2021 :\nRetour sur ggplot2 et la grammaire des graphiques\nDonnées pondérées, plan d’échantillonnage complexe et survey\nRapports automatisées : introduction à Rmarkdown\nmise en forme de tableaux avec gt, kable et kableExtra\n\nManipulations avancée de données\nréorganiser ses tableaux avec tidyr\nfusion de tables\ngestion des dates avec lubridate\nfonctions à fenêtre\n\nAvril-Juin 2021 :\nAnalyse de survie\nAnalyse des correspondances multiples (ACM)\nClassification ascendante hiérarchique (CAH)\nAnalyse de séquences avec TraMineR\nExemples de graphiques avancés avec ggplot2\nTrajectoires de soins : comparaison de plusieurs approches biographiques\nManipulation de gros tableaux de données avec data.table\nLicence\nLes contenus de ce site sont mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\nPartenaires\n\n\n\n\n\n\n",
+      "last_modified": "2021-01-12T16:44:17+01:00"
+    },
+    {
+      "path": "seances.html",
+      "title": "Séances",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-01-12T16:44:17+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
