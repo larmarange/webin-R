@@ -11,9 +11,9 @@
     ],
     "date": "2021-01-14",
     "categories": [],
-    "contents": "\n\n\nChapitres analyse-R\nManipuler les données avec dplyr\nRessources en anglais\nData Transformation Cheatsheet\n\n\n\n",
+    "contents": "\n\n\nChapitres analyse-R\nManipuler les données avec dplyr\nFusion de tables\nFonctions à fenêtres\nRessources en anglais\nData Transformation Cheatsheet\nLes vignettes de dplyr\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-01-12T17:48:01+01:00",
+    "last_modified": "2021-01-15T10:37:03+01:00",
     "input_file": {}
   },
   {

@@ -28,8 +28,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Chapitres analyse-R
 
 - [Manipuler les données avec dplyr](http://larmarange.github.io/analyse-R/manipuler-les-donnees-avec-dplyr.html)
+- [Fusion de tables](https://larmarange.github.io/analyse-R/fusion-de-tables.html)
+- [Fonctions à fenêtres](https://larmarange.github.io/analyse-R/fonctions-a-fenetre.html)
 
 ### Ressources en anglais
 
 - [Data Transformation Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/data-transformation.pdf)
+- [Les vignettes de dplyr](https://dplyr.tidyverse.org/articles/index.html)
 
