@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2021-01-28-regression-logistique-partie-1/",
+    "title": "Régression logistique (partie 1)",
+    "description": "webin-R #06 du 28 Janvier 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-01-28",
+    "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-18T15:10:51+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-01-21-recoder-des-variables/",
+    "title": "Recoder des variables",
+    "description": "webin-R #05 du 21 Janvier 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-01-21",
+    "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nRecodage de variables\nRéorganiser ses données avec tidyr\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-01-18T15:09:51+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-01-14-manipuler-les-donnees-avec-dplyr/",
     "title": "Manipuler les données avec dplyr",
     "description": "webin-R #04 du 14 Janvier 2021",

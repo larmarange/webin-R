@@ -12,7 +12,23 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Régression logistique (partie 1)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</link>
+      <description>webin-R #06 du 28 Janvier 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</guid>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recoder des variables</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables</link>
+      <description>webin-R #05 du 21 Janvier 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables</guid>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Manipuler les données avec dplyr</title>
       <dc:creator>Joseph Larmarange</dc:creator>
