@@ -12,12 +12,20 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Régression logistique (partie 2)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</link>
+      <description>webin-R #07 du 4 février 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</guid>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Régression logistique (partie 1)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</link>
-      <description>webin-R #06 du 28 Janvier 2021</description>
+      <description>webin-R #06 du 28 janvier 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</guid>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
     </item>

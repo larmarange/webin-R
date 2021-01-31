@@ -1,7 +1,7 @@
 ---
 title: "Régression logistique (partie 1)"
 description: |
-  webin-R #06 du 28 Janvier 2021
+  webin-R #06 du 28 janvier 2021
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net
@@ -25,8 +25,14 @@ knitr::opts_chunk$set(echo = FALSE)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-bdMv2aAqUY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Script du webin-R
+
+- [Script R](analyse_pratique_sport.R)
+- [Rapport HTML du script](analyse_pratique_sport.html)
+
 ### Chapitres analyse-R
 
 - [Régression logistique binaire, multinomiale et ordinale](https://larmarange.github.io/analyse-R/regression-logistique.html)
+- [Recodage de variables](https://larmarange.github.io/analyse-R/recodage.html)
 
 
