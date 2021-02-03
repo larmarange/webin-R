@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Script du webin-R
 
-- [Script R](analyse_pratique_sport.R)
+- [Script R](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-01-28-regression-logistique-partie-1/analyse_pratique_sport.R)
 - [Rapport HTML du script](analyse_pratique_sport.html)
 
 ### Chapitres analyse-R
