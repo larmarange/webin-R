@@ -25,6 +25,10 @@ knitr::opts_chunk$set(echo = FALSE)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/BUo9i7XTLYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Script du webin-R
+
+- [Script R](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-02-04-regression-logistique-partie-2/analyse_pratique_sport.R)
+- [Rapport HTML du script](analyse_pratique_sport.html)
 
 ### Chapitres analyse-R
 
