@@ -12,31 +12,14 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Régression logistique (partie 2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</link>
-      <description>
-
-
-&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/BUo9i7XTLYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;h3 id="script-du-webin-r"&gt;Script du webin-R&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-02-04-regression-logistique-partie-2/analyse_pratique_sport.R"&gt;Script R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="analyse_pratique_sport.html"&gt;Rapport HTML du script&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/regression-logistique.html"&gt;Régression logistique binaire, multinomiale et ordinale&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/effets-d-interaction.html"&gt;Effets d’interaction dans un modèle&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/multicolinearite.html"&gt;Multicolinéarité dans la régression&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
-      <distill:md5>24c7deb73c4402efcc541181be41245a</distill:md5>
+      <description>webin-R #07 du 4 février 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</guid>
-      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Régression logistique (partie 1)</title>
@@ -93,6 +76,14 @@
       <description>webin-R #01 du 26 novembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio</guid>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Foire aux questions</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions</link>
+      <description>webin-R FAQ du 11 février 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions</guid>
+      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

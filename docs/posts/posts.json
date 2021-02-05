@@ -13,8 +13,8 @@
     "categories": [],
     "contents": "\n\n\nScript du webin-R\nScript R\nRapport HTML du script\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\nEffets d’interaction dans un modèle\nMulticolinéarité dans la régression\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-05T15:01:02+01:00",
-    "input_file": "regression-logistique-partie-2.utf8.md"
+    "last_modified": "2021-02-05T15:01:03+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-01-28-regression-logistique-partie-1/",
@@ -79,9 +79,9 @@
     ],
     "date": "2020-12-17",
     "categories": [],
-    "contents": "\n\nUne session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.\n\n\n\n",
+    "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": {},
-    "last_modified": "2020-12-31T09:19:40+01:00",
+    "last_modified": "2021-02-05T15:06:11+01:00",
     "input_file": {}
   },
   {
@@ -133,6 +133,23 @@
     "contents": "\n\n\nChapitres analyse-R\nPrésentation et philosophie\nInstallation de R et RStudio\nPremier contact\nPremier travail avec les données\nExtensions (installation, mise à jour)\nOù trouver de l’aide ?\nLiens\nanalyse-R : https://larmarange.github.io/analyse-R/\nR : https://www.r-project.org/\nR Studio : https://rstudio.com/\n\n\n\n",
     "preview": {},
     "last_modified": "2020-12-31T09:19:37+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-02-11-foire-aux-questions/",
+    "title": "Foire aux questions",
+    "description": "webin-R FAQ du 11 février 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2011-02-11",
+    "categories": [],
+    "contents": "\nFAQUne session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-05T15:07:34+01:00",
     "input_file": {}
   }
 ]

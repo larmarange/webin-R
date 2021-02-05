@@ -1,0 +1,26 @@
+---
+title: "Foire aux questions"
+description: |
+  webin-R FAQ du 11 février 2021
+author:
+  - name: Joseph Larmarange
+    url: https://joseph.larmarange.net
+    affiliation: Ceped, IRD
+    affiliation_url: https://www.ceped.org
+date: 02-11-2011
+creative_commons: CC BY-SA
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![FAQ](ecran_titre_webin-R_FAQ.png)
+
+Une session où vous pourrez poser toutes vos questions. A cette occasion, un format un peu différent puisqu’il s’agira d’une session sur Zoom afin que nous puissions échanger de vives voix.
+
+
