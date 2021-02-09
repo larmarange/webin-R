@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/",
+    "title": "ggplot2 et la grammaires des graphiques",
+    "description": "webin-R #08 du 18 février 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-02-18",
+    "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nGraphiques univariés et bivariés avec ggplot2\nggplot2 et la grammaire des graphiques\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-09T12:52:15+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-02-04-regression-logistique-partie-2/",
     "title": "Régression logistique (partie 2)",
     "description": "webin-R #07 du 4 février 2021",

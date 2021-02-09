@@ -40,33 +40,31 @@ Le programme est susceptible d'évoluer.
 |                     |                                                             |
 |                     | *Session de questions / réponses, venez avec vos problèmes* |
 +---------------------+-------------------------------------------------------------+
+| **18 février 2021** | ggplot2 et la grammaire des graphiques       |
++---------------------+-------------------------------------------------------------+
+| **25 février 2021** | Données pondérées & plan d'échantillonnage complexe         |
++---------------------+-------------------------------------------------------------+
+| **4 mars 2021**     | Restructurer ses données avec tidyr                         |
++---------------------+-------------------------------------------------------------+
+| **11 mars 2021**    | Analyse des correspondances multiples (ACM)                 |
++---------------------+-------------------------------------------------------------+
+| **18 mars 2021**    | Classification ascendante hiérarchique (CAH)                |
++---------------------+-------------------------------------------------------------+
+| **25 mars 2021**    | Session FAQ                                                 |
++---------------------+-------------------------------------------------------------+
 
-**Février-Mars 2021 :**
-
--   Retour sur `ggplot2` et la grammaire des graphiques
-
--   Données pondérées, plan d'échantillonnage complexe et `survey`
-
--   Rapports automatisées : introduction à `Rmarkdown`
-
-    -   mise en forme de tableaux avec `gt`, `kable` et `kableExtra`
-
--   Manipulations avancée de données
-
-    -   réorganiser ses tableaux avec `tidyr`
-    -   fusion de tables
-    -   gestion des dates avec `lubridate`
-    -   fonctions à fenêtre
 
 **Avril-Juin 2021 :**
 
--   Analyse de survie
--   Analyse des correspondances multiples (ACM)
--   Classification ascendante hiérarchique (CAH)
--   Analyse de séquences avec `TraMineR`
--   Exemples de graphiques avancés avec `ggplot2`
--   Trajectoires de soins : comparaison de plusieurs approches biographiques
--   Manipulation de gros tableaux de données avec `data.table`
+- Rapports automatisées & `Rmarkdown`
+- Analyse de survie
+- Analyse de séquences avec `TraMineR`
+- Exemples de graphiques avancés avec `ggplot2`
+- Trajectoires de soins : comparaison de plusieurs approches biographiques
+- Manipulation de gros tableaux de données avec `data.table`
+- Les différents types de contrastes dans les modèles de régression
+- Régression logistique multinomiale et ordinale
+- Modèles de Poisson
 
 ## Licence
 

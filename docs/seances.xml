@@ -12,7 +12,15 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 04 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>ggplot2 et la grammaires des graphiques</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques</link>
+      <description>webin-R #08 du 18 février 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques</guid>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Régression logistique (partie 2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
