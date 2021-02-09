@@ -35,3 +35,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Régression logistique binaire, multinomiale et ordinale](https://larmarange.github.io/analyse-R/regression-logistique.html)
 - [Effets d'interaction dans un modèle](https://larmarange.github.io/analyse-R/effets-d-interaction.html)
 - [Multicolinéarité dans la régression](https://larmarange.github.io/analyse-R/multicolinearite.html)
+
+### Ressources additionnelles (en anglais)
+
+- [RStudio: compiling reports from R scripts](https://rmarkdown.rstudio.com/articles_report_from_r_script.html)
