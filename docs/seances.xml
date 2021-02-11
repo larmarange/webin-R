@@ -22,6 +22,14 @@
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Foire aux questions</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02</link>
+      <description>webin-R FAQ du 11 février 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02</guid>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Régression logistique (partie 2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</link>
@@ -84,14 +92,6 @@
       <description>webin-R #01 du 26 novembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio</guid>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Foire aux questions</title>
-      <dc:creator>Joseph Larmarange</dc:creator>
-      <link>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions</link>
-      <description>webin-R FAQ du 11 février 2021</description>
-      <guid>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions</guid>
-      <pubDate>Fri, 11 Feb 2011 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

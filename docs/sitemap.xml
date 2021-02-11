@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://larmarange.github.io/webin-R/</loc>
-    <lastmod>2021-02-09T12:51:17+01:00</lastmod>
+    <lastmod>2021-02-11T20:57:01+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/seances.html</loc>
-    <lastmod>2020-12-31T09:19:40+01:00</lastmod>
+    <lastmod>2021-02-11T20:56:08+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/</loc>
-    <lastmod>2021-02-09T12:52:15+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02/</loc>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2/</loc>
-    <lastmod>2021-02-09T13:11:19+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1/</loc>
-    <lastmod>2021-02-03T10:55:12+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables/</loc>
-    <lastmod>2021-02-09T12:58:15+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr/</loc>
-    <lastmod>2021-01-15T10:37:03+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions/</loc>
-    <lastmod>2021-02-05T15:06:11+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/</loc>
-    <lastmod>2020-12-31T09:20:14+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r/</loc>
-    <lastmod>2020-12-31T09:19:37+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
   <url>
     <loc>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio/</loc>
-    <lastmod>2020-12-31T09:19:37+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions/</loc>
-    <lastmod>2021-02-05T15:07:34+01:00</lastmod>
+    <lastmod>2021-02-11T21:02:21+01:00</lastmod>
   </url>
 </urlset>

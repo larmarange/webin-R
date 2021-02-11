@@ -29,3 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Introduction à ggplot2, la grammaire des graphiques](http://larmarange.github.io/analyse-R/intro-ggplot2.html)
 - [Graphiques univariés et bivariés avec ggplot2](http://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)
 - [ggplot2 et la grammaire des graphiques](http://larmarange.github.io/analyse-R/ggplot2.html)
+
+### Ressources en ligne
+
+- [R Graphics Cookbook](https://r-graphics.org/) par Winston Chang
