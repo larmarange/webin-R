@@ -28,9 +28,9 @@
     ],
     "date": "2021-02-18",
     "categories": [],
-    "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nCouleurs et Palettes\nRessources en ligne\nR Graphics Cookbook par Winston Chang\nLes palettes de couleurs de Cynthia Brewer et al. : https://colorbrewer2.org/\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\nThe R Graph Gallery: https://www.r-graph-gallery.com/\nChoses à ne pas faire dans un graphique : https://www.data-to-viz.com/caveats.html\n\n\n\n",
+    "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nScript du jour\nwebin-R_08.zip\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nCouleurs et Palettes\nRessources en ligne\nR Graphics Cookbook par Winston Chang\nLes palettes de couleurs de Cynthia Brewer et al. : https://colorbrewer2.org/\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\nThe R Graph Gallery: https://www.r-graph-gallery.com/\nChoses à ne pas faire dans un graphique : https://www.data-to-viz.com/caveats.html\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-18T20:48:37+01:00",
+    "last_modified": "2021-02-18T20:52:29+01:00",
     "input_file": {}
   },
   {

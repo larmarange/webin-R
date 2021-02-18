@@ -26,6 +26,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Les données (corrigées) de Reinhart et Rogoff : <https://larmarange.github.io/analyse-R/data/debt.csv>
 
+### Script du jour
+
+- [webin-R_08.zip](https://github.com/larmarange/webin-R/raw/main/_posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/webin-R_08.zip)
+
 ### Chapitres analyse-R
 
 - [Introduction à ggplot2, la grammaire des graphiques](http://larmarange.github.io/analyse-R/intro-ggplot2.html)
