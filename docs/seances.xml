@@ -12,7 +12,15 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Graphiques uni- et bivariés avec ggplot2</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</link>
+      <description>webin-R #09 du 25 février 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</guid>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ggplot2 et la grammaires des graphiques</title>
       <dc:creator>Joseph Larmarange</dc:creator>

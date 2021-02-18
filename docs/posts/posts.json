@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/",
+    "title": "Graphiques uni- et bivariés avec ggplot2",
+    "description": "webin-R #09 du 25 février 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-02-25",
+    "categories": [],
+    "contents": "\n\n\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nggplot2 et la grammaire des graphiques\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-02-18T19:31:15+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/",
     "title": "ggplot2 et la grammaires des graphiques",
     "description": "webin-R #08 du 18 février 2021",
@@ -11,9 +28,9 @@
     ],
     "date": "2021-02-18",
     "categories": [],
-    "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nGraphiques univariés et bivariés avec ggplot2\nggplot2 et la grammaire des graphiques\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
+    "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nCouleurs et Palettes\nRessources en ligne\nR Graphics Cookbook par Winston Chang\nLes palettes de couleurs de Cynthia Brewer et al. : https://colorbrewer2.org/\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\nThe R Graph Gallery: https://www.r-graph-gallery.com/\nChoses à ne pas faire dans un graphique : https://www.data-to-viz.com/caveats.html\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-18T12:27:44+01:00",
+    "last_modified": "2021-02-18T19:36:54+01:00",
     "input_file": {}
   },
   {

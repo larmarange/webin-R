@@ -35,22 +35,19 @@ Le programme est susceptible d'évoluer.
 ```
 
 
+
 +---------------------+-------------------------------------------------------------+
-| **11 février 2021** | Session FAQ                                                 |
-|                     |                                                             |
-|                     | *Session de questions / réponses, venez avec vos problèmes* |
+| **25 février 2021** | Graphiques uni- et bivariés avec ggplot2                    |
 +---------------------+-------------------------------------------------------------+
-| **18 février 2021** | ggplot2 et la grammaire des graphiques       |
+| **4 mars 2021**     | Données pondérées & plan d'échantillonnage complexe         |
 +---------------------+-------------------------------------------------------------+
-| **25 février 2021** | Données pondérées & plan d'échantillonnage complexe         |
+| **11 mars 2021**    | Restructurer ses données avec tidyr                         |
 +---------------------+-------------------------------------------------------------+
-| **4 mars 2021**     | Restructurer ses données avec tidyr                         |
+| **18 mars 2021**    | Analyse des correspondances multiples (ACM)                 |
 +---------------------+-------------------------------------------------------------+
-| **11 mars 2021**    | Analyse des correspondances multiples (ACM)                 |
+| **25 mars 2021**    | Classification ascendante hiérarchique (CAH)                |
 +---------------------+-------------------------------------------------------------+
-| **18 mars 2021**    | Classification ascendante hiérarchique (CAH)                |
-+---------------------+-------------------------------------------------------------+
-| **25 mars 2021**    | Session FAQ                                                 |
+| **4 avril 2021**    | Session FAQ                                                 |
 +---------------------+-------------------------------------------------------------+
 
 
