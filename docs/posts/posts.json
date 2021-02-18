@@ -13,7 +13,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nggplot2 et la grammaire des graphiques\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-18T19:31:15+01:00",
+    "last_modified": "2021-02-18T20:48:39+01:00",
     "input_file": {}
   },
   {
@@ -30,7 +30,7 @@
     "categories": [],
     "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nCouleurs et Palettes\nRessources en ligne\nR Graphics Cookbook par Winston Chang\nLes palettes de couleurs de Cynthia Brewer et al. : https://colorbrewer2.org/\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\nThe R Graph Gallery: https://www.r-graph-gallery.com/\nChoses à ne pas faire dans un graphique : https://www.data-to-viz.com/caveats.html\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-18T19:36:54+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -47,7 +47,7 @@
     "categories": [],
     "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:42+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -64,7 +64,7 @@
     "categories": [],
     "contents": "\n\n\nScript du webin-R\nScript R\nRapport HTML du script\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\nEffets d’interaction dans un modèle\nMulticolinéarité dans la régression\nRessources additionnelles (en anglais)\nRStudio: compiling reports from R scripts\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:42+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -81,7 +81,7 @@
     "categories": [],
     "contents": "\n\n\nScript du webin-R\nScript R\nRapport HTML du script\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\nRecodage de variables\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:42+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -98,7 +98,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nRecodage de variables\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:42+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -115,7 +115,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nManipuler les données avec dplyr\nFusion de tables\nFonctions à fenêtres\nRessources en anglais\nData Transformation Cheatsheet\nLes vignettes de dplyr\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:41+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -132,7 +132,7 @@
     "categories": [],
     "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:41+01:00",
+    "last_modified": "2021-02-18T20:48:37+01:00",
     "input_file": {}
   },
   {
@@ -149,7 +149,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nOrganiser ses fichiers\nStatistique univariée\nStatistique bivariée\nGraphiques univariés et bivariés avec ggplot2\nTests de comparaison\nRessources en anglais\nle site de gtsummary (tableaux univariés et bivariés)\nle site d’esquisse (aide à la création de graphiques ggplot2)\ncréation d’un rapport à partir d’un script (aide de RStudio)\nFichier de données\ntrial.xlsx\nscripts de la session\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:40+01:00",
+    "last_modified": "2021-02-18T20:48:35+01:00",
     "input_file": {}
   },
   {
@@ -166,7 +166,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nVecteurs, indexation et assignation\nListes et tableaux de données\nFacteurs et vecteurs labellisés\nOrganiser ses fichiers\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:40+01:00",
+    "last_modified": "2021-02-18T20:48:35+01:00",
     "input_file": {}
   },
   {
@@ -183,7 +183,7 @@
     "categories": [],
     "contents": "\n\n\nChapitres analyse-R\nPrésentation et philosophie\nInstallation de R et RStudio\nPremier contact\nPremier travail avec les données\nExtensions (installation, mise à jour)\nOù trouver de l’aide ?\nLiens\nanalyse-R : https://larmarange.github.io/analyse-R/\nR : https://www.r-project.org/\nR Studio : https://rstudio.com/\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-11T21:20:40+01:00",
+    "last_modified": "2021-02-18T20:48:35+01:00",
     "input_file": {}
   }
 ]
