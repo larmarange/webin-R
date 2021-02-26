@@ -12,7 +12,15 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Données pondérées, plan d'échantillonnage complexe &amp; survey</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</link>
+      <description>webin-R #10 du 4 mars 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</guid>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Graphiques uni- et bivariés avec ggplot2</title>
       <dc:creator>Joseph Larmarange</dc:creator>
