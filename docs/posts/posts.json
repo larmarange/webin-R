@@ -28,10 +28,10 @@
     ],
     "date": "2021-02-25",
     "categories": [],
-    "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nggplot2 et la grammaire des graphiques\nCombiner plusieurs graphiques\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
+    "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nMettre en forme des nombres\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-26T08:57:21+01:00",
-    "input_file": {}
+    "last_modified": "2021-02-26T09:08:38+01:00",
+    "input_file": "graphiques-uni-et-bivaries-avec-ggplot2.utf8.md"
   },
   {
     "path": "posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/",

@@ -32,8 +32,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ### Chapitres analyse-R
 
 - [Graphiques univariés et bivariés avec ggplot2](http://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html)
-- [ggplot2 et la grammaire des graphiques](http://larmarange.github.io/analyse-R/ggplot2.html)
-- [Combiner plusieurs graphiques](http://larmarange.github.io/analyse-R/combiner-plusieurs-graphiques.html)
+- [Mettre en forme des nombres](http://larmarange.github.io/analyse-R/formater-nombres.html)
 
 ### Ressources en ligne
 
