@@ -23,6 +23,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/73xvKXSnV1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Script du jour
+
+- le [code R](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/code_session_webin-R_09.R)
+- le [rapport HTML correspondant](code_session_webin-R_09.html)
+
 
 ### Chapitres analyse-R
 
