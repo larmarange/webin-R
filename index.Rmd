@@ -37,15 +37,11 @@ Le programme est susceptible d'évoluer.
 
 
 +---------------------+-------------------------------------------------------------+
-| **4 mars 2021**     | Données pondérées & plan d'échantillonnage complexe         |
+| **11 mars 2021**    | Analyse des correspondances multiples (ACM)                 |
 +---------------------+-------------------------------------------------------------+
-| **11 mars 2021**    | Restructurer ses données avec tidyr                         |
+| **18 mars 2021**    | Classification ascendante hiérarchique (CAH)                |
 +---------------------+-------------------------------------------------------------+
-| **18 mars 2021**    | Analyse des correspondances multiples (ACM)                 |
-+---------------------+-------------------------------------------------------------+
-| **25 mars 2021**    | Classification ascendante hiérarchique (CAH)                |
-+---------------------+-------------------------------------------------------------+
-| **4 avril 2021**    | Session FAQ                                                 |
+| **25 mars 2021**    | Session FAQ                                                 |
 +---------------------+-------------------------------------------------------------+
 
 

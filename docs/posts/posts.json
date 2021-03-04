@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-03-11-analyse-des-correspondances-multiples-acm/",
+    "title": "Analyse des Correspondances Multiples (ACM)",
+    "description": "webin-R #11 du 11 mars 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-03-11",
+    "categories": [],
+    "contents": "\n\n\nChapitre analyse-R\nAnalyse des Correspondances Multiples (ACM)\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-03-04T19:45:19+01:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey/",
     "title": "Données pondérées, plan d'échantillonnage complexe & survey",
     "description": "webin-R #10 du 4 mars 2021",
@@ -11,10 +28,10 @@
     ],
     "date": "2021-03-04",
     "categories": [],
-    "contents": "\n\n\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
+    "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-03-04T13:56:08+01:00",
-    "input_file": "donnees-ponderees-plan-d-echantillonnage-complexe-et-survey.utf8.md"
+    "last_modified": "2021-03-04T19:48:00+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/",
@@ -30,8 +47,8 @@
     "categories": [],
     "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nMettre en forme des nombres\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-26T09:08:38+01:00",
-    "input_file": "graphiques-uni-et-bivaries-avec-ggplot2.utf8.md"
+    "last_modified": "2021-02-26T09:08:39+01:00",
+    "input_file": {}
   },
   {
     "path": "posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/",

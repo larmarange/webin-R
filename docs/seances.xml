@@ -12,56 +12,28 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>mer., 03 mars 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>jeu., 11 mars 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Analyse des Correspondances Multiples (ACM)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-03-11-analyse-des-correspondances-multiples-acm</link>
+      <description>webin-R #11 du 11 mars 2021</description>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-03-11-analyse-des-correspondances-multiples-acm</guid>
+      <pubDate>jeu., 11 mars 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Données pondérées, plan d'échantillonnage complexe &amp; survey</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</link>
-      <description>
-
-
-&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/aXCn9SyhcTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/definir-un-plan-d-echantillonnage-complexe.html"&gt;Définir un plan d’échantillonnage complexe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/donnees-ponderees.html"&gt;Données pondérées&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="à-propos-des-différents-types-de-sondage"&gt;À propos des différents types de sondage&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.mathwebs.com/ApprendreEnMaternelle/Exercices/Sondages/sondage_aleatoire.php"&gt;Présentation des différents types de sondages aléatoires&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.fun-mooc.fr/asset-v1:grenoblealpes+92001+session01+type@asset+block/mod3-cap2.pdf"&gt;Comment construire un échantillon ?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
-      <distill:md5>038c1223e9bc99fa9dd2c60ebd1bf7f6</distill:md5>
+      <description>webin-R #10 du 4 mars 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</guid>
-      <pubDate>mer., 03 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 04 mars 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Graphiques uni- et bivariés avec ggplot2</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</link>
-      <description>
-
-
-&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/73xvKXSnV1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
-&lt;/iframe&gt;
-&lt;h3 id="script-du-jour"&gt;Script du jour&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;le &lt;a href="https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/code_session_webin-R_09.R"&gt;code R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;le &lt;a href="code_session_webin-R_09.html"&gt;rapport HTML correspondant&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/graphiques-bivaries-ggplot2.html"&gt;Graphiques univariés et bivariés avec ggplot2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/formater-nombres.html"&gt;Mettre en forme des nombres&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="ressources-en-ligne"&gt;Ressources en ligne&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://r-graphics.org/"&gt;R Graphics Cookbook&lt;/a&gt; par Winston Chang&lt;/li&gt;
-&lt;/ul&gt;
-&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
-      <distill:md5>57e4b55fa8222302b88cc58ec348ebb5</distill:md5>
+      <description>webin-R #09 du 25 février 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</guid>
       <pubDate>jeu., 25 févr. 2021 00:00:00 +0000</pubDate>
     </item>
