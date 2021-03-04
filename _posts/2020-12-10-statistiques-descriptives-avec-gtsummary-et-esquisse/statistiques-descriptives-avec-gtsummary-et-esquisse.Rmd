@@ -3,6 +3,9 @@ title: "Statistiques descriptives avec gtsummary et esquisse"
 description: |
   webin-R #03 du 10 décembre 2020
 preview: ecran_titre_webin-R_03.png
+categories:
+  - Analyser
+  - Débutant
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

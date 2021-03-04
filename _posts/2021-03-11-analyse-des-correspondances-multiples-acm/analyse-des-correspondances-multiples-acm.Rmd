@@ -3,6 +3,9 @@ title: "Analyse des Correspondances Multiples (ACM)"
 description: |
   webin-R #11 du 11 mars 2021
 preview: ecran_titre_webin-R_11.png
+categories:
+  - Analyser
+  - Intermédiaire
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

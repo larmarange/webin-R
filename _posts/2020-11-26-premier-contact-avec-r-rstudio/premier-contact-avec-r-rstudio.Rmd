@@ -3,6 +3,9 @@ title: "Premier contact avec R & RStudio"
 description: |
   webin-R #01 du 26 novembre 2020
 preview: ecran_titre_webin-R_01.png
+categories:
+  - Manipuler
+  - Débutant
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

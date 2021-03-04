@@ -6,14 +6,14 @@
       "description": "un wébinaire hebdomadaire sur l'analyse d'enquêtes avec R et RStudio\n",
       "author": [],
       "contents": "\n webin-R est un wébinaire hebdomadaire de deux heures,tous les jeudis de 17h à 19h (CET heure de Paris). webin-R s’appuie sur le projet analyse-R dont il reprend les contenus.\nComment participer ?\nwebin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu Séances.\n\n\n\n\n\nLes liens de connexion à la plateforme de diffusion sont diffusés par email.\nPour s’inscrire à la liste de diffusion webin-R et recevoir les liens de connexion hebdomadaires, il vous suffit d’envoyer un email avec pour objet subscribe webin-R à sympa@listes.ird.fr.\nProgramme (prochaines séances)\nLe programme est susceptible d’évoluer.\n\n  td {vertical-align: top;}\n11 mars 2021\nAnalyse des correspondances multiples (ACM)\n18 mars 2021\nClassification ascendante hiérarchique (CAH)\n25 mars 2021\nSession FAQ\nAvril-Juin 2021 :\nRapports automatisées & Rmarkdown\nAnalyse de survie\nAnalyse de séquences avec TraMineR\nExemples de graphiques avancés avec ggplot2\nTrajectoires de soins : comparaison de plusieurs approches biographiques\nManipulation de gros tableaux de données avec data.table\nLes différents types de contrastes dans les modèles de régression\nRégression logistique multinomiale et ordinale\nModèles de Poisson\nLicence\nLes contenus de ce site sont mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\nPartenaires\n\n\n\n\n\n\n",
-      "last_modified": "2021-03-04T19:59:58+01:00"
+      "last_modified": "2021-03-04T20:14:32+01:00"
     },
     {
       "path": "seances.html",
       "title": "Séances",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-03-04T19:59:58+01:00"
+      "last_modified": "2021-03-04T20:14:32+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

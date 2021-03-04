@@ -3,6 +3,9 @@ title: "ggplot2 et la grammaires des graphiques"
 description: |
   webin-R #08 du 18 février 2021
 preview: ecran_titre_webin-R_08.png
+categories:
+  - Analyser
+  - Débutant
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

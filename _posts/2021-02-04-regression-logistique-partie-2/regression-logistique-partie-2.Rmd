@@ -3,6 +3,9 @@ title: "Régression logistique (partie 2)"
 description: |
   webin-R #07 du 4 février 2021
 preview: ecran_titre_webin-R_07.png
+categories:
+  - Analyser
+  - Intermédiaire
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

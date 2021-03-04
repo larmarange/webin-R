@@ -10,10 +10,13 @@
       }
     ],
     "date": "2021-03-11",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nChapitre analyse-R\nAnalyse des Correspondances Multiples (ACM)\n\n\n\n",
     "preview": "posts/2021-03-11-analyse-des-correspondances-multiples-acm/ecran_titre_webin-R_11.png",
-    "last_modified": "2021-03-04T19:52:22+01:00",
+    "last_modified": "2021-03-04T20:11:22+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -29,10 +32,13 @@
       }
     ],
     "date": "2021-03-04",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
     "preview": "posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey/ecran_titre_webin-R_10.png",
-    "last_modified": "2021-03-04T19:59:51+01:00",
+    "last_modified": "2021-03-04T20:11:52+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -48,10 +54,13 @@
       }
     ],
     "date": "2021-02-25",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Débutant"
+    ],
     "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nGraphiques univariés et bivariés avec ggplot2\nMettre en forme des nombres\nRessources en ligne\nR Graphics Cookbook par Winston Chang\n\n\n\n",
     "preview": "posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/ecran_titre_webin-R_09.png",
-    "last_modified": "2021-03-04T19:59:23+01:00",
+    "last_modified": "2021-03-04T20:11:38+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -67,10 +76,13 @@
       }
     ],
     "date": "2021-02-18",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Débutant"
+    ],
     "contents": "\n\n\nDonnées des exemples\nLes données (corrigées) de Reinhart et Rogoff : https://larmarange.github.io/analyse-R/data/debt.csv\nScript du jour\nwebin-R_08.zip\nChapitres analyse-R\nIntroduction à ggplot2, la grammaire des graphiques\nCouleurs et Palettes\nRessources en ligne\nR Graphics Cookbook par Winston Chang\nLes palettes de couleurs de Cynthia Brewer et al. : https://colorbrewer2.org/\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\nThe R Graph Gallery: https://www.r-graph-gallery.com/\nChoses à ne pas faire dans un graphique : https://www.data-to-viz.com/caveats.html\n\n\n\n",
     "preview": "posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/ecran_titre_webin-R_08.png",
-    "last_modified": "2021-03-04T19:58:53+01:00",
+    "last_modified": "2021-03-04T20:12:07+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -86,10 +98,12 @@
       }
     ],
     "date": "2021-02-11",
-    "categories": [],
+    "categories": [
+      "FAQ"
+    ],
     "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": "posts/2021-02-11-foire-aux-questions-02/ecran_titre_webin-R_FAQ.png",
-    "last_modified": "2021-03-04T19:58:12+01:00",
+    "last_modified": "2021-03-04T20:08:49+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -105,10 +119,13 @@
       }
     ],
     "date": "2021-02-04",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nScript du webin-R\nScript R\nRapport HTML du script\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\nEffets d’interaction dans un modèle\nMulticolinéarité dans la régression\nRessources additionnelles (en anglais)\nRStudio: compiling reports from R scripts\n\n\n\n",
     "preview": "posts/2021-02-04-regression-logistique-partie-2/ecran_titre_webin-R_07.png",
-    "last_modified": "2021-03-04T19:57:16+01:00",
+    "last_modified": "2021-03-04T20:12:22+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -124,10 +141,13 @@
       }
     ],
     "date": "2021-01-28",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nScript du webin-R\nScript R\nRapport HTML du script\nChapitres analyse-R\nRégression logistique binaire, multinomiale et ordinale\nRecodage de variables\n\n\n\n",
     "preview": "posts/2021-01-28-regression-logistique-partie-1/ecran_titre_webin-R_06.png",
-    "last_modified": "2021-03-04T19:56:43+01:00",
+    "last_modified": "2021-03-04T20:12:37+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -143,10 +163,13 @@
       }
     ],
     "date": "2021-01-21",
-    "categories": [],
+    "categories": [
+      "Manipuler",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nChapitres analyse-R\nRecodage de variables\n\n\n\n",
     "preview": "posts/2021-01-21-recoder-des-variables/ecran_titre_webin-R_05.png",
-    "last_modified": "2021-03-04T19:56:08+01:00",
+    "last_modified": "2021-03-04T20:12:59+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -162,10 +185,13 @@
       }
     ],
     "date": "2021-01-14",
-    "categories": [],
+    "categories": [
+      "Manipuler",
+      "Intermédiaire"
+    ],
     "contents": "\n\n\nChapitres analyse-R\nManipuler les données avec dplyr\nFusion de tables\nFonctions à fenêtres\nRessources en anglais\nData Transformation Cheatsheet\nLes vignettes de dplyr\n\n\n\n",
     "preview": "posts/2021-01-14-manipuler-les-donnees-avec-dplyr/ecran_titre_webin-R_04.png",
-    "last_modified": "2021-03-04T19:55:36+01:00",
+    "last_modified": "2021-03-04T20:13:09+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -200,10 +226,13 @@
       }
     ],
     "date": "2020-12-10",
-    "categories": [],
+    "categories": [
+      "Analyser",
+      "Débutant"
+    ],
     "contents": "\n\n\nChapitres analyse-R\nOrganiser ses fichiers\nStatistique univariée\nStatistique bivariée\nGraphiques univariés et bivariés avec ggplot2\nTests de comparaison\nRessources en anglais\nle site de gtsummary (tableaux univariés et bivariés)\nle site d’esquisse (aide à la création de graphiques ggplot2)\ncréation d’un rapport à partir d’un script (aide de RStudio)\nFichier de données\ntrial.xlsx\nscripts de la session\n\n\n\n",
     "preview": "posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/ecran_titre_webin-R_03.png",
-    "last_modified": "2021-03-04T19:54:25+01:00",
+    "last_modified": "2021-03-04T20:13:29+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -219,10 +248,13 @@
       }
     ],
     "date": "2020-12-03",
-    "categories": [],
+    "categories": [
+      "Manipuler",
+      "Débutant"
+    ],
     "contents": "\n\n\nChapitres analyse-R\nVecteurs, indexation et assignation\nListes et tableaux de données\nFacteurs et vecteurs labellisés\n\n\n\n",
     "preview": "posts/2020-12-03-les-bases-du-language-r/ecran_titre_webin-R_02.png",
-    "last_modified": "2021-03-04T19:53:44+01:00",
+    "last_modified": "2021-03-04T20:13:41+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -238,10 +270,13 @@
       }
     ],
     "date": "2020-11-26",
-    "categories": [],
+    "categories": [
+      "Manipuler",
+      "Débutant"
+    ],
     "contents": "\n\n\nChapitres analyse-R\nPrésentation et philosophie\nInstallation de R et RStudio\nPremier contact\nPremier travail avec les données\nExtensions (installation, mise à jour)\nOù trouver de l’aide ?\nLiens\nanalyse-R : https://larmarange.github.io/analyse-R/\nR : https://www.r-project.org/\nR Studio : https://rstudio.com/\n\n\n\n",
     "preview": "posts/2020-11-26-premier-contact-avec-r-rstudio/ecran_titre_webin-R_01.png",
-    "last_modified": "2021-03-04T19:53:12+01:00",
+    "last_modified": "2021-03-04T20:14:00+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080

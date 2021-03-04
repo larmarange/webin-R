@@ -3,6 +3,8 @@ title: "Foire aux questions"
 description: |
   webin-R FAQ du 11 février 2021
 preview: ecran_titre_webin-R_FAQ.png
+categories:
+  - FAQ
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

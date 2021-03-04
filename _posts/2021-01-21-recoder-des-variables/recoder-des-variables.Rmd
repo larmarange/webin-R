@@ -3,6 +3,9 @@ title: "Recoder des variables"
 description: |
   webin-R #05 du 21 Janvier 2021
 preview: ecran_titre_webin-R_05.png
+categories:
+  - Manipuler
+  - Intermédiaire
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net
