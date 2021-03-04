@@ -2,6 +2,7 @@
 title: "Graphiques uni- et bivariés avec ggplot2"
 description: |
   webin-R #09 du 25 février 2021
+preview: ecran_titre_webin-R_09.png
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net

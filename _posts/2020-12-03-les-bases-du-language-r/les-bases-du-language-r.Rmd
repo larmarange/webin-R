@@ -2,6 +2,7 @@
 title: "Les bases du language R"
 description: |
   webin-R #02 du 3 décembre 2020
+preview: ecran_titre_webin-R_02.png
 author:
   - name: Joseph Larmarange
     url: https://joseph.larmarange.net
