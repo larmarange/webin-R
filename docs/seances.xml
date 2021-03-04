@@ -12,14 +12,30 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 03 mars 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Données pondérées, plan d'échantillonnage complexe &amp; survey</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</link>
-      <description>webin-R #10 du 4 mars 2021</description>
+      <description>
+
+
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/aXCn9SyhcTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/definir-un-plan-d-echantillonnage-complexe.html"&gt;Définir un plan d’échantillonnage complexe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/donnees-ponderees.html"&gt;Données pondérées&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="à-propos-des-différents-types-de-sondage"&gt;À propos des différents types de sondage&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.mathwebs.com/ApprendreEnMaternelle/Exercices/Sondages/sondage_aleatoire.php"&gt;Présentation des différents types de sondages aléatoires&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fun-mooc.fr/asset-v1:grenoblealpes+92001+session01+type@asset+block/mod3-cap2.pdf"&gt;Comment construire un échantillon ?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>038c1223e9bc99fa9dd2c60ebd1bf7f6</distill:md5>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</guid>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>mer., 03 mars 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Graphiques uni- et bivariés avec ggplot2</title>
@@ -47,7 +63,7 @@
 &lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
       <distill:md5>57e4b55fa8222302b88cc58ec348ebb5</distill:md5>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</guid>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 25 févr. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ggplot2 et la grammaires des graphiques</title>
@@ -55,7 +71,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques</link>
       <description>webin-R #08 du 18 février 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques</guid>
-      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 18 févr. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Foire aux questions</title>
@@ -63,7 +79,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02</link>
       <description>webin-R FAQ du 11 février 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02</guid>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 11 févr. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Régression logistique (partie 2)</title>
@@ -71,7 +87,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</link>
       <description>webin-R #07 du 4 février 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</guid>
-      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 04 févr. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Régression logistique (partie 1)</title>
@@ -79,7 +95,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</link>
       <description>webin-R #06 du 28 janvier 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</guid>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 28 janv. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Recoder des variables</title>
@@ -87,7 +103,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables</link>
       <description>webin-R #05 du 21 Janvier 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables</guid>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 21 janv. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Manipuler les données avec dplyr</title>
@@ -95,7 +111,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr</link>
       <description>webin-R #04 du 14 Janvier 2021</description>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr</guid>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 14 janv. 2021 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Foire aux questions</title>
@@ -103,7 +119,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions</link>
       <description>webin-R FAQ du 17 décembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions</guid>
-      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 17 déc. 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Statistiques descriptives avec gtsummary et esquisse</title>
@@ -111,7 +127,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse</link>
       <description>webin-R #03 du 10 décembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse</guid>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 10 déc. 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Les bases du language R</title>
@@ -119,7 +135,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r</link>
       <description>webin-R #02 du 3 décembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r</guid>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 03 déc. 2020 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Premier contact avec R &amp; RStudio</title>
@@ -127,7 +143,7 @@
       <link>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio</link>
       <description>webin-R #01 du 26 novembre 2020</description>
       <guid>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio</guid>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 26 nov. 2020 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

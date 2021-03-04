@@ -29,3 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Définir un plan d'échantillonnage complexe](http://larmarange.github.io/analyse-R/definir-un-plan-d-echantillonnage-complexe.html)
 - [Données pondérées](http://larmarange.github.io/analyse-R/donnees-ponderees.html)
 
+### À propos des différents types de sondage
+
+- [Présentation des différents types de sondages aléatoires](http://www.mathwebs.com/ApprendreEnMaternelle/Exercices/Sondages/sondage_aleatoire.php)
+- [Comment construire un échantillon ?](https://www.fun-mooc.fr/asset-v1:grenoblealpes+92001+session01+type@asset+block/mod3-cap2.pdf)

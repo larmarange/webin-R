@@ -20,19 +20,19 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
-code.sourceCode > span { display: inline-block; line-height: 1.25; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-code.sourceCode > span:empty { height: 1.2em; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
-code.sourceCode { white-space: pre; position: relative; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
 div.sourceCode { margin: 1em 0; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-code.sourceCode { white-space: pre-wrap; }
-code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -52,7 +52,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ad0000; } /* Alert */
 code span.an { color: #5e5e5e; } /* Annotation */
@@ -130,7 +130,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--/radix_placeholder_rmarkdown_metadata-->
   
   <script type="text/json" id="radix-resource-manifest">
-  {"type":"NULL"}
+  {"type":"character","attributes":{},"value":["donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/anchor-4.2.2/anchor.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/bowser-1.9.3/bowser.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/distill-2.2.21/template.v2.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/jquery-1.11.3/jquery.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/popper-2.6.0/popper.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/tippy-6.2.7/tippy-bundle.umd.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/tippy-6.2.7/tippy-light-border.css","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/tippy-6.2.7/tippy.css","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/tippy-6.2.7/tippy.umd.min.js","donnees-ponderees-plan-d-echantillonnage-complexe-et-survey_files/webcomponents-2.0.0/webcomponents.js"]}
   </script>
   <!--radix_placeholder_navigation_in_header-->
 <meta name="distill:offset" content="../.."/>
@@ -2374,6 +2374,7 @@ d-appendix d-footnote-list a.footnote-backlink {
   color: var(--hover-color, white);
 }</style>
 <!--/radix_placeholder_distill-->
+  <script src="../../site_libs/header-attrs-2.6/header-attrs.js"></script>
   <script src="../../site_libs/jquery-1.11.3/jquery.min.js"></script>
   <script src="../../site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="../../site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
@@ -2476,6 +2477,11 @@ d-appendix d-footnote-list a.footnote-backlink {
 <ul>
 <li><a href="http://larmarange.github.io/analyse-R/definir-un-plan-d-echantillonnage-complexe.html">Définir un plan d’échantillonnage complexe</a></li>
 <li><a href="http://larmarange.github.io/analyse-R/donnees-ponderees.html">Données pondérées</a></li>
+</ul>
+<h3 id="à-propos-des-différents-types-de-sondage">À propos des différents types de sondage</h3>
+<ul>
+<li><a href="http://www.mathwebs.com/ApprendreEnMaternelle/Exercices/Sondages/sondage_aleatoire.php">Présentation des différents types de sondages aléatoires</a></li>
+<li><a href="https://www.fun-mooc.fr/asset-v1:grenoblealpes+92001+session01+type@asset+block/mod3-cap2.pdf">Comment construire un échantillon ?</a></li>
 </ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

@@ -11,10 +11,10 @@
     ],
     "date": "2021-03-04",
     "categories": [],
-    "contents": "\n\n\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\n\n\n\n",
+    "contents": "\n\n\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-02-26T09:02:50+01:00",
-    "input_file": {}
+    "last_modified": "2021-03-04T13:56:08+01:00",
+    "input_file": "donnees-ponderees-plan-d-echantillonnage-complexe-et-survey.utf8.md"
   },
   {
     "path": "posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/",
