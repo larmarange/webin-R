@@ -12,7 +12,28 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 11 mars 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 17 mars 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Classification Ascendante Hiérarchique (CAH)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-03-18-classification-ascendante-hierarchique-cah</link>
+      <description>
+
+
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/Q8adb64NzUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="chapitre-analyse-r"&gt;Chapitre analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/classification-ascendante-hierarchique.html"&gt;Classification ascendante hiérarchique (CAH)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>abb3844474b62a256451536b81d271f1</distill:md5>
+      <category>Analyser</category>
+      <category>Intermédiaire</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-03-18-classification-ascendante-hierarchique-cah</guid>
+      <pubDate>mer., 17 mars 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-18-classification-ascendante-hierarchique-cah/ecran_titre_webin-R_12.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Analyse des Correspondances Multiples (ACM)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
