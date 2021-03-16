@@ -16,8 +16,8 @@
     ],
     "contents": "\n\n\nChapitre analyse-R\nClassification ascendante hiérarchique (CAH)\n\n\n\n",
     "preview": "posts/2021-03-18-classification-ascendante-hierarchique-cah/ecran_titre_webin-R_12.png",
-    "last_modified": "2021-03-16T15:09:37+01:00",
-    "input_file": "classification-ascendante-hierarchique-cah.utf8.md",
+    "last_modified": "2021-03-16T15:09:38+01:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -36,9 +36,9 @@
       "Analyser",
       "Intermédiaire"
     ],
-    "contents": "\n\n\nChapitre analyse-R\nAnalyse des Correspondances Multiples (ACM)\n\n\n\n",
+    "contents": "\n\n\nScript du webin-R\nle code R\nle rapport HTML correspondant\nChapitre analyse-R\nAnalyse des Correspondances Multiples (ACM)\n\n\n\n",
     "preview": "posts/2021-03-11-analyse-des-correspondances-multiples-acm/ecran_titre_webin-R_11.png",
-    "last_modified": "2021-03-04T20:11:22+01:00",
+    "last_modified": "2021-03-16T15:12:07+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
@@ -58,9 +58,9 @@
       "Analyser",
       "Intermédiaire"
     ],
-    "contents": "\n\n\nScript du jour\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
+    "contents": "\n\n\nScript du webin-R\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nDéfinir un plan d’échantillonnage complexe\nDonnées pondérées\nÀ propos des différents types de sondage\nPrésentation des différents types de sondages aléatoires\nComment construire un échantillon ?\n\n\n\n",
     "preview": "posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey/ecran_titre_webin-R_10.png",
-    "last_modified": "2021-03-04T20:11:52+01:00",
+    "last_modified": "2021-03-16T15:11:21+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
