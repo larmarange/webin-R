@@ -250,10 +250,12 @@
       }
     ],
     "date": "2020-12-17",
-    "categories": [],
+    "categories": [
+      "FAQ"
+    ],
     "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": "posts/2020-12-17-foire-aux-questions/ecran_titre_webin-R_FAQ.png",
-    "last_modified": "2021-03-04T19:54:53+01:00",
+    "last_modified": "2021-03-19T11:39:23+01:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
