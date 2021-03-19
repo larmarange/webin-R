@@ -12,7 +12,17 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 18 mars 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>jeu., 25 mars 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Foire aux questions</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03</link>
+      <description>webin-R FAQ du 25 mars 2021</description>
+      <category>FAQ</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03</guid>
+      <pubDate>jeu., 25 mars 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03/ecran_titre_webin-R_FAQ.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Classification Ascendante Hiérarchique (CAH)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
