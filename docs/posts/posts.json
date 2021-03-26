@@ -36,10 +36,10 @@
     "categories": [
       "FAQ"
     ],
-    "contents": "\nUne session de questions/réponses.\nLa session aura lieu sur Zoom. Inscrivez-vous à la mailing liste des webin-R pour recevoir les codes d’accès.\n\n\n\n",
+    "contents": "\n\n\nUne session de questions/réponses.\n\n\n\n",
     "preview": "posts/2021-03-19-foires-aux-questions-03/ecran_titre_webin-R_FAQ.png",
-    "last_modified": "2021-03-19T11:37:00+01:00",
-    "input_file": {},
+    "last_modified": "2021-03-26T10:52:22+01:00",
+    "input_file": "foires-aux-questions-03.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
   },
