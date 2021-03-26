@@ -12,7 +12,7 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 01 avril 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 31 mars 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Exemples de graphiques avancés</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -20,7 +20,7 @@
       <description>
 
 
-&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/5sD4Z8bTlMM&amp;quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/5sD4Z8bTlMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
 &lt;/iframe&gt;
 &lt;h3 id="données-des-exemples"&gt;Données des exemples&lt;/h3&gt;
 &lt;ul&gt;
@@ -45,7 +45,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-04-01-exemples-de-graphiques-avances</guid>
-      <pubDate>jeu., 01 avril 2021 00:00:00 +0000</pubDate>
+      <pubDate>mer., 31 mars 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-01-exemples-de-graphiques-avances/ecran_titre_webin-R_13.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -62,7 +62,7 @@
       <distill:md5>fd2bf78b21e9331d1db7b9e003ab42b0</distill:md5>
       <category>FAQ</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03</guid>
-      <pubDate>mer., 24 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 25 mars 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03/ecran_titre_webin-R_FAQ.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
