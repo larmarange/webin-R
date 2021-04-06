@@ -1,8 +1,8 @@
 ---
-title: "Exemples de graphiques avancés"
+title: "Exemples de graphiques avancés (2)"
 description: |
-  webin-R #13 du 1er avril 2021
-preview: ecran_titre_webin-R_13.png
+  webin-R #14 du 8 avril 2021
+preview: ecran_titre_webin-R_14.png
 categories:
   - Analyser
   - Manipuler
@@ -12,7 +12,7 @@ author:
     url: https://joseph.larmarange.net
     affiliation: Ceped, IRD
     affiliation_url: https://www.ceped.org
-date: 04-01-2021
+date: 04-08-2021
 creative_commons: CC BY-SA
 output:
   distill::distill_article:
@@ -25,17 +25,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/5sD4Z8bTlMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/iJT46MGSQA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Données des exemples
 
-- Questions de connaissance : <https://larmarange.github.io/analyse-R/data/connaissances.RData>
+- Distribution de bandes dessinées : <https://larmarange.github.io/analyse-R/data/bandes_dessinees_tintin.xlsx>
 
 ### Chapitres analyse-R
 
 - [Exemples de graphiques avancés](https://larmarange.github.io/analyse-R/exemples-graphiques-avances.html)
-- [Réorganiser ses données avec tidyr](https://larmarange.github.io/analyse-R/reorganiser-ses-donnees-avec-tidyr.html)
 - [Étendre ggplot2](https://larmarange.github.io/analyse-R/etendre-ggplot2.html)
+- [Combiner plusieurs graphiques](https://larmarange.github.io/analyse-R/combiner-plusieurs-graphiques.html)
 - [Couleurs et Palettes](https://larmarange.github.io/analyse-R/couleurs.html)
 
 ### Ressources en ligne
