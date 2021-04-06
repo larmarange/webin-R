@@ -38,10 +38,10 @@
       "Manipuler",
       "Avancé"
     ],
-    "contents": "\n\n\nDonnées des exemples\nQuestions de connaissance : https://larmarange.github.io/analyse-R/data/connaissances.RData\nDistribution de bandes dessinées : https://larmarange.github.io/analyse-R/data/bandes_dessinees_tintin.xlsx\nChapitres analyse-R\nExemples de graphiques avancés\nRéorganiser ses données avec tidyr\nÉtendre ggplot2\nCombiner plusieurs graphiques\nCouleurs et Palettes\nRessources en ligne\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\n\n\n\n",
+    "contents": "\n\n\nDonnées des exemples\nQuestions de connaissance : https://larmarange.github.io/analyse-R/data/connaissances.RData\nScript du jour\nZip des fichiers du webin-R\nChapitres analyse-R\nExemples de graphiques avancés\nRéorganiser ses données avec tidyr\nÉtendre ggplot2\nCouleurs et Palettes\nRessources en ligne\nLes palettes de couleurs de Paul Tol : https://personal.sron.nl/~pault/ et https://khroma.tesselle.org/\n\n\n\n",
     "preview": "posts/2021-04-01-exemples-de-graphiques-avances/ecran_titre_webin-R_13.png",
-    "last_modified": "2021-03-26T11:38:37+01:00",
-    "input_file": {},
+    "last_modified": "2021-04-06T12:16:47+02:00",
+    "input_file": "exemples-de-graphiques-avances.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
   },

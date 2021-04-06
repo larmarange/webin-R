@@ -31,6 +31,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Questions de connaissance : <https://larmarange.github.io/analyse-R/data/connaissances.RData>
 
+### Script du jour
+
+- [Zip des fichiers du webin-R](https://github.com/larmarange/webin-R/raw/main/_posts/2021-04-01-exemples-de-graphiques-avances/webin-R-13.zip)
+
 ### Chapitres analyse-R
 
 - [Exemples de graphiques avancés](https://larmarange.github.io/analyse-R/exemples-graphiques-avances.html)
