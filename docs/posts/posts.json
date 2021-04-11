@@ -81,10 +81,10 @@
       "Analyser",
       "Intermédiaire"
     ],
-    "contents": "\n\n\nChapitre analyse-R\nClassification ascendante hiérarchique (CAH)\n\n\n\n",
+    "contents": "\n\n\nScript du webin-R\nle code R\nle rapport HTML correspondant\nChapitre analyse-R\nClassification ascendante hiérarchique (CAH)\n\n\n\n",
     "preview": "posts/2021-03-18-classification-ascendante-hierarchique-cah/ecran_titre_webin-R_12.png",
-    "last_modified": "2021-03-16T15:09:38+01:00",
-    "input_file": {},
+    "last_modified": "2021-04-11T15:13:12+02:00",
+    "input_file": "classification-ascendante-hierarchique-cah.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
   },
