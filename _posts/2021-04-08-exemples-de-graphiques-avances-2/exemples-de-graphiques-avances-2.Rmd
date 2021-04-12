@@ -31,6 +31,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Distribution de bandes dessinées : <https://larmarange.github.io/analyse-R/data/bandes_dessinees_tintin.xlsx>
 
+### Script du jour
+
+- [Zip des fichiers du webin-R](https://github.com/larmarange/webin-R/raw/main/_posts/2021-04-08-exemples-de-graphiques-avances-2/webin-R-14.zip)
+
 ### Chapitres analyse-R
 
 - [Exemples de graphiques avancés](https://larmarange.github.io/analyse-R/exemples-graphiques-avances.html)
