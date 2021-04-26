@@ -12,7 +12,28 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 08 avril 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 28 avril 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Analyse de survie</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie</link>
+      <description>
+
+
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/3XLx1SHc2fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-survie.html"&gt;Analyse de survie&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>999e897cd2655da3543a9e7dbf7febbe</distill:md5>
+      <category>Analyser</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie</guid>
+      <pubDate>mer., 28 avril 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie/ecran_titre_webin-R_15.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Exemples de graphiques avancés (2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
