@@ -12,7 +12,28 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>mer., 28 avril 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>jeu., 06 mai 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Analyse de séquences</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences</link>
+      <description>
+
+
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/qCEougRU-bA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-sequences.html"&gt;Analyse de séquences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>9f9e460a1d2d20b868cb2eb375ce9ca6</distill:md5>
+      <category>Analyser</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences</guid>
+      <pubDate>jeu., 06 mai 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences/ecran_titre_webin-R_16.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Analyse de survie</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -22,9 +43,15 @@
 
 &lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/3XLx1SHc2fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;h3 id="script-du-webin-r"&gt;Script du webin-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;le &lt;a href="https://github.com/larmarange/webin-R/raw/main/_posts/2021-04-29-analyse-de-survie/analyse_de_survie.R"&gt;code R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;le &lt;a href="analyse_de_survie.html"&gt;rapport HTML correspondant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-survie.html"&gt;Analyse de survie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/fusion-de-tables.html"&gt;Fusion de tables&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
       <distill:md5>999e897cd2655da3543a9e7dbf7febbe</distill:md5>

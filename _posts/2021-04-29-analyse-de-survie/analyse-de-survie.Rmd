@@ -27,6 +27,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/3XLx1SHc2fw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+### Script du webin-R
+
+- le [code R](https://github.com/larmarange/webin-R/raw/main/_posts/2021-04-29-analyse-de-survie/analyse_de_survie.R)
+- le [rapport HTML correspondant](analyse_de_survie.html)
+
+
 ### Chapitres analyse-R
 
 - [Analyse de survie](https://larmarange.github.io/analyse-R/analyse-de-survie.html)
+- [Fusion de tables](https://larmarange.github.io/analyse-R/fusion-de-tables.html)
