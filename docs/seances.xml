@@ -12,7 +12,7 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 06 mai 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 05 mai 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Analyse de séquences</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -22,16 +22,26 @@
 
 &lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/qCEougRU-bA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;h3 id="données-des-exemples"&gt;Données des exemples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/data/trajpro.csv"&gt;trajpro.csv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-sequences.html"&gt;Analyse de séquences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="autres-ressources-en-ligne"&gt;Autres ressources en ligne&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://mephisto.unige.ch/pub/TraMineR/doc/TraMineR-Users-Guide.pdf"&gt;le guide utilisateur du package TraMineR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.ceped.org/fr/publications-ressources/editions-du-ceped-1988-2011/les-clefs-pour/article/explorer-et-decrire-les-parcours"&gt;l’ouvrage de Nicolas Robette aux éditions du Ceped&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123345"&gt;un article sur la dynamique de participation dans un observatoire démographique&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
       <distill:md5>9f9e460a1d2d20b868cb2eb375ce9ca6</distill:md5>
       <category>Analyser</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences</guid>
-      <pubDate>jeu., 06 mai 2021 00:00:00 +0000</pubDate>
+      <pubDate>mer., 05 mai 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences/ecran_titre_webin-R_16.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -58,7 +68,7 @@
       <category>Analyser</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie</guid>
-      <pubDate>mer., 28 avril 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 29 avril 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie/ecran_titre_webin-R_15.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>

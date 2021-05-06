@@ -14,9 +14,9 @@
       "Analyser",
       "Avancé"
     ],
-    "contents": "\n\n\nChapitres analyse-R\nAnalyse de séquences\n\n\n\n",
+    "contents": "\n\n\nDonnées des exemples\ntrajpro.csv\nChapitres analyse-R\nAnalyse de séquences\nAutres ressources en ligne\nle guide utilisateur du package TraMineR\nl’ouvrage de Nicolas Robette aux éditions du Ceped\nun article sur la dynamique de participation dans un observatoire démographique\n\n\n\n",
     "preview": "posts/2021-05-06-analyses-de-sequences/ecran_titre_webin-R_16.png",
-    "last_modified": "2021-04-30T15:36:29+02:00",
+    "last_modified": "2021-05-06T09:45:02+02:00",
     "input_file": "analyses-de-sequences.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
