@@ -1,7 +1,7 @@
 ---
 title: "Trajectoires de soins : un exemple de données longitudinales"
 description: |
-  webin-R #17 du 13 mai 2021
+  webin-R #17 du 20 mai 2021
 preview: ecran_titre_webin-R_17.png
 categories:
   - Analyser
@@ -12,7 +12,7 @@ author:
     url: https://joseph.larmarange.net
     affiliation: Ceped, IRD
     affiliation_url: https://www.ceped.org
-date: 2021-05-13
+date: 2021-05-20
 creative_commons: CC BY-SA
 output:
   distill::distill_article:
