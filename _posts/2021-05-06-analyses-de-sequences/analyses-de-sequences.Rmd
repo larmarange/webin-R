@@ -30,9 +30,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [trajpro.csv](http://larmarange.github.io/analyse-R/data/trajpro.csv)
 
+### Script du webin-R
+
+- le [code R](https://github.com/larmarange/webin-R/raw/main/_posts/2021-05-06-analyses-de-sequences/analyse_sequences.R)
+- le [rapport HTML correspondant](analyse_sequences.html)
+
 ### Chapitres analyse-R
 
 - [Analyse de séquences](https://larmarange.github.io/analyse-R/analyse-de-sequences.html)
+- [Réorganiser ses données avec tidyR](https://larmarange.github.io/analyse-R/reorganiser-ses-donnees-avec-tidyr.html)
 
 ### Autres ressources en ligne
 
