@@ -2,7 +2,7 @@
 title: "Trajectoires de soins : un exemple de données longitudinales (2)"
 description: |
   webin-R #18 du 25 mai 2021
-preview: ecran_titre_webin-R_17.png
+preview: ecran_titre_webin-R_18.png
 categories:
   - Analyser
   - Manipuler
