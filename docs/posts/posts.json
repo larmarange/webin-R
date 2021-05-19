@@ -1,5 +1,26 @@
 [
   {
+    "path": "posts/2021-05-25-trajectoires-de-soins-2/",
+    "title": "Trajectoires de soins : un exemple de données longitudinales (2)",
+    "description": "webin-R #18 du 25 mai 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-05-25",
+    "categories": [
+      "Analyser",
+      "Manipuler",
+      "Avancé"
+    ],
+    "contents": "\nSuite directe du webin-R #17.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de suivie\nAnalyse de séquences\nRégression logistique multinomiale\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-19T13:11:44+02:00",
+    "input_file": "trajectoires-de-soins-2.utf8.md"
+  },
+  {
     "path": "posts/2021-05-19-trajectoires-de-soins/",
     "title": "Trajectoires de soins : un exemple de données longitudinales",
     "description": "webin-R #17 du 19 mai 2021",

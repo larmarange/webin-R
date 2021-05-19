@@ -12,7 +12,37 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>mar., 18 mai 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>lun., 24 mai 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Trajectoires de soins : un exemple de données longitudinales (2)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-05-25-trajectoires-de-soins-2</link>
+      <description>
+
+
+&lt;p&gt;Suite directe du &lt;a href="https://larmarange.github.io/webin-R/posts/2021-05-19-trajectoires-de-soins/"&gt;webin-R #17&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/KMUDP0a1skM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="données-des-exemples"&gt;Données des exemples&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/data/care_trajectories.RData"&gt;care_trajectories.RData&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/trajectoires-de-soins.html"&gt;Trajectoires de soins : un exemple de données longitudinales&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/reorganiser-ses-donnees-avec-tidyr.html"&gt;Réorganiser ses données avec tidyR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-survie.html"&gt;Analyse de suivie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/analyse-de-sequences.html"&gt;Analyse de séquences&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/regression-logistique.html#r%C3%A9gression-logistique-multinomiale"&gt;Régression logistique multinomiale&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>fc79fc7e59031d34850c86cc94eec0a5</distill:md5>
+      <category>Analyser</category>
+      <category>Manipuler</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-05-25-trajectoires-de-soins-2</guid>
+      <pubDate>lun., 24 mai 2021 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trajectoires de soins : un exemple de données longitudinales</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -40,7 +70,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-05-19-trajectoires-de-soins</guid>
-      <pubDate>mar., 18 mai 2021 00:00:00 +0000</pubDate>
+      <pubDate>mer., 19 mai 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-19-trajectoires-de-soins/ecran_titre_webin-R_17.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
