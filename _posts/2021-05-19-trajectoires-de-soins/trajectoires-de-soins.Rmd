@@ -31,12 +31,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - [care_trajectories.RData](http://larmarange.github.io/analyse-R/data/care_trajectories.RData)
 
+### Script de la séance
+
+- [Fichier Rmarkdown](trajectoires_v01.Rmd)
+- [Rendu HTML](trajectoires_v01.html)
+
 
 ### Chapitres analyse-R
 
 - [Trajectoires de soins : un exemple de données longitudinales](https://larmarange.github.io/analyse-R/trajectoires-de-soins.html)
-- [Réorganiser ses données avec tidyR](https://larmarange.github.io/analyse-R/reorganiser-ses-donnees-avec-tidyr.html)
-- [Analyse de suivie](https://larmarange.github.io/analyse-R/analyse-de-survie.html)
-- [Analyse de séquences](https://larmarange.github.io/analyse-R/analyse-de-sequences.html)
-- [Régression logistique multinomiale](https://larmarange.github.io/analyse-R/regression-logistique.html#r%C3%A9gression-logistique-multinomiale)
+- [R Markdown : les rapports automatisés](https://larmarange.github.io/analyse-R/rmarkdown-les-rapports-automatises.html)
+
+### Ressources en lignes
+
+Yihui Xie, J. J. Allaire et Garrett Grolemund ont écrit un livre dédié intitulé *R Markdown: The Definitive Guide*. Ce livre est intégralement accessible à <https://bookdown.org/yihui/rmarkdown/>.
 

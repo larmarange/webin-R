@@ -1,0 +1,102 @@
+---
+title: "Trajectoires de soins"
+author: "Joseph Larmarange"
+date: "19/05/2021"
+output:
+  html_document: 
+    toc: yes
+    fig_width: 8
+    fig_height: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(labelled)
+library(questionr)
+library(gtsummary)
+library(viridis)
+library(scales)
+load("care_trajectories.RData")
+care_trajectories <- as_tibble(care_trajectories)
+var_label(care_trajectories$sex) <- "Sexe"
+val_labels(care_trajectories$sex) <- c(homme = 0, femme = 1)
+var_label(care_trajectories$age) <- "Âge"
+var_label(care_trajectories$education) <- "Education"
+val_labels(care_trajectories$education) <- c(
+  primaire = 1,
+  secondaire = 2,
+  supérieur = 3
+)
+val_labels(care_trajectories$care_status) <- c(
+  "diagnostiqué, mais pas suivi" = "D",
+  "suivi, mais pas sous traitement" = "C",
+  "sous traitement, mais infection non contrôlée" = "T",
+  "sous traitement et infection contrôlée" = "S"
+)
+care_trajectories <- care_trajectories %>%
+  set_variable_labels(
+    id = "Identifiant Patient",
+    month = "Mois depuis la diagnostic",
+    care_status = "Statut dans les soins",
+    wealth = "Niveau de richesse",
+    distance_clinic = "Distance à la clinique la plus proche"
+  ) %>%
+  set_value_labels(
+    wealth = c(bas = 1, moyen = 2, haut = 3),
+    distance_clinic = c("moins de 10 km" = 1, "10 km ou plus" = 2)
+  )
+
+```
+
+## Première description des données
+
+```{r}
+care_trajectories %>%
+  unlabelled() %>%
+  tbl_summary()
+```
+
+
+Le fichier contient en tout `r nrow(care_trajectories)` lignes (une par individu et par mois de suivi). Il correspond à `r care_trajectories$id %>% unique() %>% length()` individus différents.
+
+```{r}
+n <- care_trajectories %>%
+  filter(month %in% (0:8*6)) %>%
+  group_by(month) %>%
+  count() %>%
+  pluck("n")
+
+etiquettes <- paste0("M", 0:8*6, "\n(n=", n, ")")
+
+ggplot(care_trajectories) +
+  aes(x = month, fill = to_factor(care_status)) +
+  geom_bar(width = 1, color = "gray50") +
+  scale_fill_viridis(discrete = TRUE, direction = -1) +
+  xlab("") + ylab("") +
+  scale_x_continuous(breaks = 0:8*6, labels = etiquettes) +
+  labs(fill = "Statut dans les soins") +
+  ggtitle("Distribution du statut dans les soins chaque mois") +
+  guides(fill = guide_legend(nrow = 2)) +
+  theme_light() +
+  theme(legend.position = "bottom")
+```
+
+```{r}
+ggplot(care_trajectories %>% filter(month <= 36)) +
+  aes(x = month, fill = to_factor(care_status)) +
+  geom_bar(width = 1, color = "gray50", position = "fill") +
+  scale_fill_viridis(discrete = TRUE, direction = -1) +
+  xlab("") + ylab("") +
+  scale_x_continuous(breaks = 0:8*6, labels = etiquettes) +
+  scale_y_continuous(labels = percent, breaks = 0:5/5) +
+  labs(fill = "Statut dans les soins") +
+  ggtitle("Cascade des soins observée, selon le temps depuis le diagnostic") +
+  guides(fill = guide_legend(nrow = 2)) +
+  theme_light() +
+  theme(legend.position = "bottom")
+```
+
