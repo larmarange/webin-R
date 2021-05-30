@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-06-10-trajectoires-de-soins-3/",
+    "title": "Trajectoires de soins : un exemple de données longitudinales (3)",
+    "description": "webin-R #19 du 10 juin 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-06-10",
+    "categories": [
+      "Analyser",
+      "Manipuler",
+      "Avancé"
+    ],
+    "contents": "\nSuite directe du webin-R #18.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de séquences\nRégression logistique multinomiale\n\n\n\n",
+    "preview": "posts/2021-06-10-trajectoires-de-soins-3/ecran_titre_webin-R_19.png",
+    "last_modified": "2021-05-30T17:56:28+02:00",
+    "input_file": "trajectoires-de-soins-3.utf8.md",
+    "preview_width": 1920,
+    "preview_height": 1080
+  },
+  {
     "path": "posts/2021-05-25-trajectoires-de-soins-2/",
     "title": "Trajectoires de soins : un exemple de données longitudinales (2)",
     "description": "webin-R #18 du 25 mai 2021",
@@ -15,9 +38,9 @@
       "Manipuler",
       "Avancé"
     ],
-    "contents": "\nSuite directe du webin-R #17.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de suivie\nAnalyse de séquences\nRégression logistique multinomiale\n\n\n\n",
+    "contents": "\nSuite directe du webin-R #17.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de suivie\n\n\n\n",
     "preview": "posts/2021-05-25-trajectoires-de-soins-2/ecran_titre_webin-R_18.png",
-    "last_modified": "2021-05-19T13:13:42+02:00",
+    "last_modified": "2021-05-30T17:56:41+02:00",
     "input_file": "trajectoires-de-soins-2.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080

@@ -1,0 +1,305 @@
+---
+title: "Trajectoires de soins"
+author: "Joseph Larmarange"
+date: "25/05/2021"
+output:
+  html_document: 
+    toc: yes
+    fig_width: 8
+    fig_height: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(labelled)
+library(questionr)
+library(gtsummary)
+library(viridis)
+library(scales)
+load("care_trajectories.RData")
+care_trajectories <- as_tibble(care_trajectories)
+var_label(care_trajectories$sex) <- "Sexe"
+val_labels(care_trajectories$sex) <- c(homme = 0, femme = 1)
+var_label(care_trajectories$age) <- "Âge"
+var_label(care_trajectories$education) <- "Education"
+val_labels(care_trajectories$education) <- c(
+  primaire = 1,
+  secondaire = 2,
+  supérieur = 3
+)
+val_labels(care_trajectories$care_status) <- c(
+  "diagnostiqué, mais pas suivi" = "D",
+  "suivi, mais pas sous traitement" = "C",
+  "sous traitement, mais infection non contrôlée" = "T",
+  "sous traitement et infection contrôlée" = "S"
+)
+care_trajectories <- care_trajectories %>%
+  set_variable_labels(
+    id = "Identifiant Patient",
+    month = "Mois depuis la diagnostic",
+    care_status = "Statut dans les soins",
+    wealth = "Niveau de richesse",
+    distance_clinic = "Distance à la clinique la plus proche"
+  ) %>%
+  set_value_labels(
+    wealth = c(bas = 1, moyen = 2, haut = 3),
+    distance_clinic = c("moins de 10 km" = 1, "10 km ou plus" = 2)
+  )
+
+```
+
+## Première description des données
+
+```{r}
+care_trajectories %>%
+  unlabelled() %>%
+  tbl_summary()
+```
+
+
+Le fichier contient en tout `r nrow(care_trajectories)` lignes (une par individu et par mois de suivi). Il correspond à `r care_trajectories$id %>% unique() %>% length()` individus différents.
+
+```{r}
+n <- care_trajectories %>%
+  filter(month %in% (0:8*6)) %>%
+  group_by(month) %>%
+  count() %>%
+  pluck("n")
+
+etiquettes <- paste0("M", 0:8*6, "\n(n=", n, ")")
+
+ggplot(care_trajectories) +
+  aes(x = month, fill = to_factor(care_status)) +
+  geom_bar(width = 1, color = "gray50") +
+  scale_fill_viridis(discrete = TRUE, direction = -1) +
+  xlab("") + ylab("") +
+  scale_x_continuous(breaks = 0:8*6, labels = etiquettes) +
+  labs(fill = "Statut dans les soins") +
+  ggtitle("Distribution du statut dans les soins chaque mois") +
+  guides(fill = guide_legend(nrow = 2)) +
+  theme_light() +
+  theme(legend.position = "bottom")
+```
+
+```{r}
+ggplot(care_trajectories %>% filter(month <= 36)) +
+  aes(x = month, fill = to_factor(care_status)) +
+  geom_bar(width = 1, color = "gray50", position = "fill") +
+  scale_fill_viridis(discrete = TRUE, direction = -1) +
+  xlab("") + ylab("") +
+  scale_x_continuous(breaks = 0:8*6, labels = etiquettes) +
+  scale_y_continuous(labels = percent, breaks = 0:5/5) +
+  labs(fill = "Statut dans les soins") +
+  ggtitle("Cascade des soins observée, selon le temps depuis le diagnostic") +
+  guides(fill = guide_legend(nrow = 2)) +
+  theme_light() +
+  theme(legend.position = "bottom")
+```
+
+
+## Analyse de survie classique
+
+
+```{r construction du fichier individu}
+ind <- care_trajectories %>% filter(month == 0)
+ind$diagnostic <- 0
+
+ind <- ind %>%
+  left_join(
+    care_trajectories %>%
+      filter(care_status %in% c("C", "T", "S")) %>%
+      group_by(id) %>%
+      summarise(entree_soins = min(month)),
+    by = "id"
+  ) %>%
+  left_join(
+    care_trajectories %>%
+      filter(care_status %in% c("T", "S")) %>%
+      group_by(id) %>%
+      summarise(initiation_tt = min(month)),
+    by = "id"
+  ) %>%
+  left_join(
+    care_trajectories %>%
+      filter(care_status == "S") %>%
+      group_by(id) %>%
+      summarise(controle = min(month)),
+    by = "id"
+  ) %>%
+  left_join(
+    care_trajectories %>%
+      group_by(id) %>%
+      summarise(suivi = max(month)),
+    by = "id"
+  )
+
+```
+
+### Un premier exemple : temps entre l'entrée en soins et l'initiation d'un traitement
+
+```{r}
+library(survival)
+library(broom)
+
+tmp <- ind %>% filter(!is.na(entree_soins))
+
+tmp$event <- FALSE
+tmp$time <- tmp$suivi - tmp$entree_soins
+
+tmp$event <- !is.na(tmp$initiation_tt)
+tmp$time[tmp$event] <- tmp$initiation_tt[tmp$event] - tmp$entree_soins[tmp$event]
+
+
+kaplan <- survfit(Surv(time, event) ~ 1 , data = tmp)
+res <- tidy(kaplan, conf.int = TRUE)
+
+
+ggplot(res) +
+  aes(x = time, y = estimate) +
+  geom_line()
+```
+
+### Temps depuis le diagnostic
+
+```{r}
+km <- function(date_origine, date_evenement, nom = ""){
+  library(survival)
+  library(broom)
+  
+  tmp <- ind 
+  tmp <- tmp %>% filter(!is.na(tmp[[date_origine]]))
+  
+  tmp$event <- FALSE
+  tmp$time <- tmp$suivi - tmp[[date_origine]]
+  
+  tmp$event <- !is.na(tmp[[date_evenement]])
+  tmp$time[tmp$event] <- tmp[[date_evenement]][tmp$event] - tmp[[date_origine]][tmp$event]
+  
+  
+  kaplan <- survfit(Surv(time, event) ~ 1 , data = tmp)
+  res <- tidy(kaplan, conf.int = TRUE)
+  res$nom <- nom
+  
+  res
+}
+  
+  
+```
+
+```{r}
+depuis_diag <- bind_rows(
+  km("diagnostic", "entree_soins", "Entrée en soins"),
+  km("diagnostic", "initiation_tt", "Initiation du traitement"),
+  km("diagnostic", "controle", "Contrôle de l'infection")
+)
+depuis_diag$nom <- fct_inorder(depuis_diag$nom)
+```
+
+```{r}
+ggplot(depuis_diag) +
+  aes(
+    x = time, y = 1 - estimate, colour = nom,
+    ymin = 1 - conf.high, ymax = 1 - conf.low, fill = nom
+  ) +
+  geom_ribbon(alpha = .25, mapping = aes(colour = NULL)) +
+  geom_line() +
+  scale_x_continuous(limits = c(0, 36), breaks = 0:6*6) +
+  scale_y_continuous(labels = scales::percent) +
+  xlab("mois depuis le diagnostic") +
+  ylab("") + labs(color = "", fill = "") +
+  theme_classic() +
+  theme(
+    legend.position = "bottom",
+    panel.grid.major.y = element_line(colour = "grey")
+  )
+```
+
+```{r}
+depuis_prec <- bind_rows(
+  km("diagnostic", "entree_soins", "Entrée en soins"),
+  km("entree_soins", "initiation_tt", "Initiation du traitement"),
+  km("initiation_tt", "controle", "Contrôle de l'infection")
+)
+depuis_prec$nom <- fct_inorder(depuis_prec$nom)
+```
+
+```{r}
+ggplot(depuis_prec) +
+  aes(
+    x = time, y = 1 - estimate, colour = nom,
+    ymin = 1 - conf.high, ymax = 1 - conf.low, fill = nom
+  ) +
+  geom_ribbon(alpha = .25, mapping = aes(colour = NULL)) +
+  geom_line() +
+  scale_x_continuous(limits = c(0, 36), breaks = 0:6*6) +
+  scale_y_continuous(labels = scales::percent) +
+  xlab("mois depuis l'étape précédente") +
+  ylab("") + labs(color = "", fill = "") +
+  theme_classic() +
+  theme(
+    legend.position = "bottom",
+    panel.grid.major.y = element_line(colour = "grey")
+  ) +
+  facet_grid(cols = vars(nom))
+```
+
+### Selon le sexe
+
+
+```{r}
+km_sexe <- function(date_origine, date_evenement, nom = ""){
+  library(survival)
+  library(broom)
+  
+  tmp <- ind 
+  tmp <- tmp %>% filter(!is.na(tmp[[date_origine]]))
+  
+  tmp$event <- FALSE
+  tmp$time <- tmp$suivi - tmp[[date_origine]]
+  
+  tmp$event <- !is.na(tmp[[date_evenement]])
+  tmp$time[tmp$event] <- tmp[[date_evenement]][tmp$event] - tmp[[date_origine]][tmp$event]
+  
+  tmp$sexe <- to_factor(tmp$sex)
+  
+  
+  kaplan <- survfit(Surv(time, event) ~ sexe , data = tmp)
+  res <- tidy(kaplan, conf.int = TRUE)
+  res$nom <- nom
+  
+  res
+}
+
+depuis_prec_sexe <- bind_rows(
+  km_sexe("diagnostic", "entree_soins", "Entrée en soins"),
+  km_sexe("entree_soins", "initiation_tt", "Initiation du traitement"),
+  km_sexe("initiation_tt", "controle", "Contrôle de l'infection")
+)
+depuis_prec_sexe$nom <- fct_inorder(depuis_prec_sexe$nom)
+depuis_prec_sexe$sexe <- depuis_prec_sexe$strata %>%
+  str_sub(start = 6)
+```
+
+```{r}
+ggplot(depuis_prec_sexe) +
+  aes(
+    x = time, y = 1 - estimate, colour = sexe,
+    ymin = 1 - conf.high, ymax = 1 - conf.low, fill = sexe
+  ) +
+  geom_ribbon(alpha = .25, mapping = aes(colour = NULL)) +
+  geom_line() +
+  scale_x_continuous(limits = c(0, 36), breaks = 0:6*6) +
+  scale_y_continuous(labels = scales::percent) +
+  xlab("mois depuis l'étape précédente") +
+  ylab("") + labs(color = "", fill = "") +
+  theme_classic() +
+  theme(
+    legend.position = "bottom",
+    panel.grid.major.y = element_line(colour = "grey")
+  ) +
+  facet_grid(cols = vars(nom))
+```
