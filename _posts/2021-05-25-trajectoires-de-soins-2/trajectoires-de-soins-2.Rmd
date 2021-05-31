@@ -34,7 +34,7 @@ Suite directe du [webin-R #17](https://larmarange.github.io/webin-R/posts/2021-0
 
 ### Script de la séance
 
-- [Fichier Rmarkdown](trajectoires_v02.Rmd)
+- [Fichier Rmarkdown](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-05-25-trajectoires-de-soins-2/trajectoires_v02.Rmd)
 - [Rendu HTML](trajectoires_v02.html)
 
 

@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Script de la séance
 
-- [Fichier Rmarkdown](trajectoires_v01.Rmd)
+- [Fichier Rmarkdown](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-05-19-trajectoires-de-soins/trajectoires_v01.Rmd)
 - [Rendu HTML](trajectoires_v01.html)
 
 

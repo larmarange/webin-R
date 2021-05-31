@@ -40,7 +40,7 @@
     ],
     "contents": "\nSuite directe du webin-R #17.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de suivie\n\n\n\n",
     "preview": "posts/2021-05-25-trajectoires-de-soins-2/ecran_titre_webin-R_18.png",
-    "last_modified": "2021-05-30T17:56:41+02:00",
+    "last_modified": "2021-05-31T11:34:44+02:00",
     "input_file": "trajectoires-de-soins-2.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
@@ -63,7 +63,7 @@
     ],
     "contents": "\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nR Markdown : les rapports automatisés\nRessources en lignes\nYihui Xie, J. J. Allaire et Garrett Grolemund ont écrit un livre dédié intitulé R Markdown: The Definitive Guide. Ce livre est intégralement accessible à https://bookdown.org/yihui/rmarkdown/.\n\n\n\n",
     "preview": "posts/2021-05-19-trajectoires-de-soins/ecran_titre_webin-R_17.png",
-    "last_modified": "2021-05-19T19:08:16+02:00",
+    "last_modified": "2021-05-31T11:34:02+02:00",
     "input_file": "trajectoires-de-soins.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
