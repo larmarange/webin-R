@@ -32,11 +32,15 @@ Suite directe du [webin-R #18](https://larmarange.github.io/webin-R/posts/2021-0
 
 - [care_trajectories.RData](http://larmarange.github.io/analyse-R/data/care_trajectories.RData)
 
+### Script de la séance
+
+- [Fichier Rmarkdown](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-06-10-trajectoires-de-soins-3/trajectoires_v03.Rmd)
+- [Rendu HTML](trajectoires_v03.html)
+
 
 ### Chapitres analyse-R
 
 - [Trajectoires de soins : un exemple de données longitudinales](https://larmarange.github.io/analyse-R/trajectoires-de-soins.html)
 - [Réorganiser ses données avec tidyR](https://larmarange.github.io/analyse-R/reorganiser-ses-donnees-avec-tidyr.html)
 - [Analyse de séquences](https://larmarange.github.io/analyse-R/analyse-de-sequences.html)
-- [Régression logistique multinomiale](https://larmarange.github.io/analyse-R/regression-logistique.html#r%C3%A9gression-logistique-multinomiale)
 
