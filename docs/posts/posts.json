@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-06-24-trajectoires-de-soins-5/",
+    "title": "Trajectoires de soins : un exemple de données longitudinales (5)",
+    "description": "webin-R #21 du 24 juin 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-06-24",
+    "categories": [
+      "Analyser",
+      "Manipuler",
+      "Avancé"
+    ],
+    "contents": "\nSuite directe du webin-R #20.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nQuel type de modèles choisir ?\n\n\n\n",
+    "preview": "posts/2021-06-24-trajectoires-de-soins-5/ecran_titre_webin-R_21.png",
+    "last_modified": "2021-06-17T18:52:31+02:00",
+    "input_file": "trajectoires-de-soins-5.utf8.md",
+    "preview_width": 1920,
+    "preview_height": 1080
+  },
+  {
     "path": "posts/2021-06-17-trajectoires-de-soins-4/",
     "title": "Trajectoires de soins : un exemple de données longitudinales (4)",
     "description": "webin-R #20 du 17 juin 2021",
