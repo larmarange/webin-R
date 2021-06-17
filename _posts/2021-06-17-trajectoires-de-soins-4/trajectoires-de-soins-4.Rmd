@@ -32,6 +32,10 @@ Suite directe du [webin-R #19](https://larmarange.github.io/webin-R/posts/2021-0
 
 - [care_trajectories.RData](http://larmarange.github.io/analyse-R/data/care_trajectories.RData)
 
+### Script de la séance
+
+- [Fichier Rmarkdown](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-06-17-trajectoires-de-soins-4/trajectoires_v04.Rmd)
+- [Rendu HTML](trajectoires_v04.html)
 
 ### Chapitres analyse-R
 

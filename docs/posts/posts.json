@@ -38,9 +38,9 @@
       "Manipuler",
       "Avancé"
     ],
-    "contents": "\nSuite directe du webin-R #19.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRégression logistique multinomiale\n\n\n\n",
+    "contents": "\nSuite directe du webin-R #19.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRégression logistique multinomiale\n\n\n\n",
     "preview": "posts/2021-06-17-trajectoires-de-soins-4/ecran_titre_webin-R_20.png",
-    "last_modified": "2021-06-16T18:11:21+02:00",
+    "last_modified": "2021-06-17T18:55:34+02:00",
     "input_file": "trajectoires-de-soins-4.utf8.md",
     "preview_width": 1920,
     "preview_height": 1080
