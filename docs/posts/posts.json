@@ -15,10 +15,10 @@
       "Manipuler",
       "Avancé"
     ],
-    "contents": "\nSuite directe du webin-R #20.\n\n\nDonnées des exemples\ncare_trajectories.RData\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nQuel type de modèles choisir ?\n\n\n\n",
+    "contents": "\nSuite directe du webin-R #20.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nQuel type de modèles choisir ?\n\n\n\n",
     "preview": "posts/2021-06-24-trajectoires-de-soins-5/ecran_titre_webin-R_21.png",
-    "last_modified": "2021-06-17T18:52:31+02:00",
-    "input_file": "trajectoires-de-soins-5.utf8.md",
+    "last_modified": "2021-06-25T16:25:32+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -40,8 +40,8 @@
     ],
     "contents": "\nSuite directe du webin-R #19.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRégression logistique multinomiale\n\n\n\n",
     "preview": "posts/2021-06-17-trajectoires-de-soins-4/ecran_titre_webin-R_20.png",
-    "last_modified": "2021-06-17T18:55:34+02:00",
-    "input_file": "trajectoires-de-soins-4.utf8.md",
+    "last_modified": "2021-06-17T18:55:35+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -63,8 +63,8 @@
     ],
     "contents": "\nSuite directe du webin-R #18.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de séquences\n\n\n\n",
     "preview": "posts/2021-06-10-trajectoires-de-soins-3/ecran_titre_webin-R_19.png",
-    "last_modified": "2021-06-16T18:13:17+02:00",
-    "input_file": "trajectoires-de-soins-3.utf8.md",
+    "last_modified": "2021-06-16T18:13:19+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -86,8 +86,8 @@
     ],
     "contents": "\nSuite directe du webin-R #17.\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nRéorganiser ses données avec tidyR\nAnalyse de suivie\n\n\n\n",
     "preview": "posts/2021-05-25-trajectoires-de-soins-2/ecran_titre_webin-R_18.png",
-    "last_modified": "2021-05-31T11:34:44+02:00",
-    "input_file": "trajectoires-de-soins-2.utf8.md",
+    "last_modified": "2021-05-31T11:34:45+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -109,8 +109,8 @@
     ],
     "contents": "\n\n\nDonnées des exemples\ncare_trajectories.RData\nScript de la séance\nFichier Rmarkdown\nRendu HTML\nChapitres analyse-R\nTrajectoires de soins : un exemple de données longitudinales\nR Markdown : les rapports automatisés\nRessources en lignes\nYihui Xie, J. J. Allaire et Garrett Grolemund ont écrit un livre dédié intitulé R Markdown: The Definitive Guide. Ce livre est intégralement accessible à https://bookdown.org/yihui/rmarkdown/.\n\n\n\n",
     "preview": "posts/2021-05-19-trajectoires-de-soins/ecran_titre_webin-R_17.png",
-    "last_modified": "2021-05-31T11:34:02+02:00",
-    "input_file": "trajectoires-de-soins.utf8.md",
+    "last_modified": "2021-05-31T11:34:03+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -131,8 +131,8 @@
     ],
     "contents": "\n\n\nDonnées des exemples\ntrajpro.csv\nScript du webin-R\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nAnalyse de séquences\nRéorganiser ses données avec tidyR\nAutres ressources en ligne\nle guide utilisateur du package TraMineR\nl’ouvrage de Nicolas Robette aux éditions du Ceped\nun article sur la dynamique de participation dans un observatoire démographique\n\n\n\n",
     "preview": "posts/2021-05-06-analyses-de-sequences/ecran_titre_webin-R_16.png",
-    "last_modified": "2021-05-07T10:38:34+02:00",
-    "input_file": "analyses-de-sequences.utf8.md",
+    "last_modified": "2021-05-07T10:38:35+02:00",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },
@@ -154,7 +154,7 @@
     "contents": "\n\n\nScript du webin-R\nle code R\nle rapport HTML correspondant\nChapitres analyse-R\nAnalyse de survie\nFusion de tables\n\n\n\n",
     "preview": "posts/2021-04-29-analyse-de-survie/ecran_titre_webin-R_15.png",
     "last_modified": "2021-04-30T15:40:56+02:00",
-    "input_file": "analyse-de-survie.utf8.md",
+    "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080
   },

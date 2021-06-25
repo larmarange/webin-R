@@ -6,7 +6,7 @@ creative_commons: CC BY-SA
 site: distill::distill_website
 ---
 
-![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire hebdomadaire de deux heures,<br /> **tous les jeudis de 17h à 19h** (CET heure de Paris).<br /> webin-R s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus.
+![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire en ligne qui s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus.
 
 ## Comment participer ?
 
@@ -26,16 +26,7 @@ Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de conn
 
 ## Thématiques des futures séances
 
-
-- Analyse de survie
-- Analyse de séquences avec `TraMineR`
-- Exemples de graphiques avancés avec `ggplot2`
-- Trajectoires de soins : comparaison de plusieurs approches biographiques
-- Régression logistique multinomiale et ordinale
-- Modèles de Poisson
-- Les différents types de contrastes dans les modèles de régression
-- Rapports automatisées & `Rmarkdown`
-- Manipulation de gros tableaux de données avec `data.table`
+Les webin-R entament une pause estivale. Rendez-vous à la rentrée universitaire pour plus d'informations sur la reprise des webin-R pour l'année universitaire 2021-2022.
 
 ## Licence
 

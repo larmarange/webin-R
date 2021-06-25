@@ -12,7 +12,7 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 24 juin 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>mer., 23 juin 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Trajectoires de soins : un exemple de données longitudinales (5)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -27,6 +27,11 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://larmarange.github.io/analyse-R/data/care_trajectories.RData"&gt;care_trajectories.RData&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id="script-de-la-séance"&gt;Script de la séance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-06-24-trajectoires-de-soins-5/trajectoires_v05.Rmd"&gt;Fichier Rmarkdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="trajectoires_v05.html"&gt;Rendu HTML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/trajectoires-de-soins.html"&gt;Trajectoires de soins : un exemple de données longitudinales&lt;/a&gt;&lt;/li&gt;
@@ -38,7 +43,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-06-24-trajectoires-de-soins-5</guid>
-      <pubDate>jeu., 24 juin 2021 00:00:00 +0000</pubDate>
+      <pubDate>mer., 23 juin 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-06-24-trajectoires-de-soins-5/ecran_titre_webin-R_21.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -71,7 +76,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-06-17-trajectoires-de-soins-4</guid>
-      <pubDate>mer., 16 juin 2021 00:00:00 +0000</pubDate>
+      <pubDate>jeu., 17 juin 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-06-17-trajectoires-de-soins-4/ecran_titre_webin-R_20.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
