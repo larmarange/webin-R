@@ -24,9 +24,7 @@ Les liens de connexion à la plateforme de diffusion sont diffusés par email.
 
 Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de connexion hebdomadaires, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa\@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe%20webin-R).
 
-## Thématiques des futures séances
-
-Les webin-R entament une pause estivale. Rendez-vous à la rentrée universitaire pour plus d'informations sur la reprise des webin-R pour l'année universitaire 2021-2022.
+Vous pouvez également vous abonner à la chaîne YouTube pour recevoir une notification à l'annonce d'une nouvelle séance.
 
 ## Licence
 

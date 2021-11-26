@@ -1,0 +1,29 @@
+---
+title: "Tableaux statistiques avec gtsummary"
+description: |
+  webin-R #22 du 13 décembre 2021
+preview: ecran_titre_webin-R_22.png
+categories:
+  - Analyser
+  - Intermédiaire
+  - Avancé
+author:
+  - name: Joseph Larmarange
+    url: https://joseph.larmarange.net
+    affiliation: Ceped, IRD
+    affiliation_url: https://www.ceped.org
+date: 2021-12-13
+creative_commons: CC BY-SA
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/52AN4vHK3-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

@@ -1,5 +1,28 @@
 [
   {
+    "path": "posts/2021-12-13-tableaux-statistiques-avec-gtsummary/",
+    "title": "Tableaux statistiques avec gtsummary",
+    "description": "webin-R #22 du 13 décembre 2021",
+    "author": [
+      {
+        "name": "Joseph Larmarange",
+        "url": "https://joseph.larmarange.net"
+      }
+    ],
+    "date": "2021-12-13",
+    "categories": [
+      "Analyser",
+      "Intermédiaire",
+      "Avancé"
+    ],
+    "contents": "\n\n\n\n\n\n",
+    "preview": "posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png",
+    "last_modified": "2021-11-26T11:04:06+01:00",
+    "input_file": {},
+    "preview_width": 1920,
+    "preview_height": 1080
+  },
+  {
     "path": "posts/2021-06-24-trajectoires-de-soins-5/",
     "title": "Trajectoires de soins : un exemple de données longitudinales (5)",
     "description": "webin-R #21 du 24 juin 2021",

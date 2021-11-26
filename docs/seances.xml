@@ -12,7 +12,19 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>jeu., 24 juin 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>lun., 13 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Tableaux statistiques avec gtsummary</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</link>
+      <description>webin-R #22 du 13 décembre 2021</description>
+      <category>Analyser</category>
+      <category>Intermédiaire</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</guid>
+      <pubDate>lun., 13 déc. 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Trajectoires de soins : un exemple de données longitudinales (5)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
