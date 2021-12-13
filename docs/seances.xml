@@ -12,17 +12,32 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>lun., 13 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>dim., 12 déc. 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Tableaux statistiques avec gtsummary</title>
       <dc:creator>Joseph Larmarange</dc:creator>
       <link>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</link>
-      <description>webin-R #22 du 13 décembre 2021</description>
+      <description>
+
+
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/52AN4vHK3-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="script-de-la-séance"&gt;Script de la séance&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="gtsummary.R"&gt;Script R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/gtsummary.html"&gt;Tableaux statistiques avancés avec gtsummary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/formater-nombres.html"&gt;Mettre en forme des nombres avec scales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>88a9b98876677e88a322091be760ef34</distill:md5>
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</guid>
-      <pubDate>lun., 13 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>dim., 12 déc. 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>

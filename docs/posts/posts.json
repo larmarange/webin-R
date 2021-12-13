@@ -15,10 +15,10 @@
       "Intermédiaire",
       "Avancé"
     ],
-    "contents": "\n\n\n\n\n\n",
+    "contents": "\n\n\nScript de la séance\nScript R\nChapitres analyse-R\nTableaux statistiques avancés avec gtsummary\nMettre en forme des nombres avec scales\n\n\n\n",
     "preview": "posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png",
-    "last_modified": "2021-11-26T11:04:06+01:00",
-    "input_file": {},
+    "last_modified": "2021-12-13T19:15:05+01:00",
+    "input_file": "tableaux-statistiques-avec-gtsummary.knit.md",
     "preview_width": 1920,
     "preview_height": 1080
   },
