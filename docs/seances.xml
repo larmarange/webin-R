@@ -12,7 +12,31 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>dim., 12 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>dim., 19 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Tableaux statistiques avec gtsummary (2)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2</link>
+      <description>
+
+
+&lt;p&gt;Suite directe du &lt;a href="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/"&gt;webin-R #22&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe width="100%" height="400" src="https://www.youtube.com/embed/yPSIrTlfGS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/gtsummary.html"&gt;Tableaux statistiques avancés avec gtsummary&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://larmarange.github.io/analyse-R/formater-nombres.html"&gt;Mettre en forme des nombres avec scales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="r distill-force-highlighting-css"&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;</description>
+      <distill:md5>6813fa9b896e0ee211d7280ee7aede6f</distill:md5>
+      <category>Analyser</category>
+      <category>Intermédiaire</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2</guid>
+      <pubDate>dim., 19 déc. 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2/ecran_titre_webin-R_23.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Tableaux statistiques avec gtsummary</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -37,7 +61,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</guid>
-      <pubDate>dim., 12 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>lun., 13 déc. 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>

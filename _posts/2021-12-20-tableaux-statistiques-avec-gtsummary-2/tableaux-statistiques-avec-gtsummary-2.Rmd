@@ -1,0 +1,35 @@
+---
+title: "Tableaux statistiques avec gtsummary (2)"
+description: |
+  webin-R #23 du 20 décembre 2021
+preview: ecran_titre_webin-R_23.png
+categories:
+  - Analyser
+  - Intermédiaire
+  - Avancé
+author:
+  - name: Joseph Larmarange
+    url: https://joseph.larmarange.net
+    affiliation: Ceped, IRD
+    affiliation_url: https://www.ceped.org
+date: 2021-12-20
+creative_commons: CC BY-SA
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Suite directe du [webin-R #22](https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/).
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/yPSIrTlfGS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Chapitres analyse-R
+
+- [Tableaux statistiques avancés avec gtsummary](https://larmarange.github.io/analyse-R/gtsummary.html)
+- [Mettre en forme des nombres avec scales](https://larmarange.github.io/analyse-R/formater-nombres.html)
