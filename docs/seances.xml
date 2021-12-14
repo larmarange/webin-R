@@ -12,7 +12,7 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>dim., 19 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>lun., 20 déc. 2021 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Tableaux statistiques avec gtsummary (2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -34,7 +34,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2</guid>
-      <pubDate>dim., 19 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>lun., 20 déc. 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2/ecran_titre_webin-R_23.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -48,7 +48,7 @@
 &lt;/iframe&gt;
 &lt;h3 id="script-de-la-séance"&gt;Script de la séance&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="gtsummary.R"&gt;Script R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-12-13-tableaux-statistiques-avec-gtsummary/gtsummary.R"&gt;Script R&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="chapitres-analyse-r"&gt;Chapitres analyse-R&lt;/h3&gt;
 &lt;ul&gt;
@@ -61,7 +61,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</guid>
-      <pubDate>lun., 13 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>dim., 12 déc. 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>

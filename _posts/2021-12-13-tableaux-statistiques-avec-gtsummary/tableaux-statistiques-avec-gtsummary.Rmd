@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Script de la séance
 
-- [Script R](gtsummary.R)
+- [Script R](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-12-13-tableaux-statistiques-avec-gtsummary/gtsummary.R)
 
 
 ### Chapitres analyse-R
