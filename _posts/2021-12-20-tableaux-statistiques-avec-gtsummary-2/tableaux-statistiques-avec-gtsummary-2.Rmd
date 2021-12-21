@@ -28,6 +28,9 @@ Suite directe du [webin-R #22](https://larmarange.github.io/webin-R/posts/2021-1
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/yPSIrTlfGS0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Script de la séance
+
+- [Script R](https://raw.githubusercontent.com/larmarange/webin-R/main/_posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2/webin-R_23.R)
 
 ### Chapitres analyse-R
 
