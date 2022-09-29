@@ -14,6 +14,8 @@ navbar:
       href: index.html
     - text: "Séances"
       href: seances.html
+    - text: "guide-R"
+      href: https://larmarange.github.io/guide-R/
     - text: "analyse-R"
       href: https://larmarange.github.io/analyse-R/
     - icon: fa fa-youtube

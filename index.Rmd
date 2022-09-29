@@ -6,7 +6,7 @@ creative_commons: CC BY-SA
 site: distill::distill_website
 ---
 
-![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire en ligne qui s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus.
+![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire en ligne qui s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus. Les webin-R seront utilement complétés par [guide-R](https://larmarange.github.io/guide-R/), un guide pour l’analyse de données d’enquêtes avec R.
 
 ## Comment participer ?
 
