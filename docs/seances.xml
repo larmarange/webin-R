@@ -12,7 +12,19 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>lun., 20 déc. 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>ven., 08 déc. 2023 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Prédictions, contrastes &amp; effets marginaux</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2023-12-08-predictions-contrastes-et-effets-marginaux</link>
+      <description>webin-R #24 du 8 décembre 2023</description>
+      <category>Analyser</category>
+      <category>Intermédiaire</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2023-12-08-predictions-contrastes-et-effets-marginaux</guid>
+      <pubDate>ven., 08 déc. 2023 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2023-12-08-predictions-contrastes-et-effets-marginaux/ecran_titre_webin-R_24.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Tableaux statistiques avec gtsummary (2)</title>
       <dc:creator>Joseph Larmarange</dc:creator>
