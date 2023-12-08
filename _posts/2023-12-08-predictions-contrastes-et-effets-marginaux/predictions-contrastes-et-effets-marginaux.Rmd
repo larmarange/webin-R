@@ -1,0 +1,32 @@
+---
+title: "Prédictions, contrastes & effets marginaux"
+description: |
+  webin-R #24 du 8 décembre 2023
+preview: ecran_titre_webin-R_24.png
+categories:
+  - Analyser
+  - Intermédiaire
+  - Avancé
+author:
+  - name: Joseph Larmarange
+    url: https://joseph.larmarange.net
+    affiliation: Ceped, IRD
+    affiliation_url: https://www.ceped.org
+date: 2023-12-08
+creative_commons: CC BY-SA
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/rAAh8rNLAOA?si=aNH_LNyETRkgJxEb" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### Chapitre guide-R
+
+- [Prédictions marginales, contrastes marginaux & effets marginaux](https://larmarange.github.io/guide-R/analyses/estimations-marginales.html)
+
