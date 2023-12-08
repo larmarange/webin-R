@@ -6,11 +6,11 @@ creative_commons: CC BY-SA
 site: distill::distill_website
 ---
 
-![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire en ligne qui s'appuie sur le projet [analyse-R](https://larmarange.github.io/analyse-R/) dont il reprend les contenus. Les webin-R seront utilement complétés par [guide-R](https://larmarange.github.io/guide-R/), un guide pour l’analyse de données d’enquêtes avec R.
+![](images/webin-R.png){style="width: 128px; float:left; margin-right: 25px;"} webin-R est un wébinaire en ligne qui s'appuie [guide-R](https://larmarange.github.io/guide-R/) et sur [analyse-R](https://larmarange.github.io/analyse-R/) dont il en reprend les contenus. Les webin-R seront utilement complétés par , un guide pour l’analyse de données d’enquêtes avec R.
 
 ## Comment participer ?
 
-webin-R est diffusé en live et enregistré. Les vidéos des sessions précédentes sont accessibles via le menu [Séances](seances.html).
+webin-R est diffusé sur YouTube. Les vidéos sont également accessibles via le menu [Séances](seances.html).
 
 ```{=html}
 <script src="https://apis.google.com/js/platform.js"></script>
@@ -20,9 +20,7 @@ webin-R est diffusé en live et enregistré. Les vidéos des sessions précéden
 :::
 :::
 
-Les liens de connexion à la plateforme de diffusion sont diffusés par email.
-
-Pour s'inscrire à la liste de diffusion *webin-R* et recevoir les liens de connexion hebdomadaires, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa\@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe%20webin-R).
+Pour s'inscrire à la liste de diffusion *webin-R* et être tenu·e informé·e, il vous suffit d'envoyer un email avec pour objet <q>*subscribe webin-R*</q> à [sympa\@listes.ird.fr](mailto:sympa@listes.ird.fr?subject=subscribe%20webin-R).
 
 Vous pouvez également vous abonner à la chaîne YouTube pour recevoir une notification à l'annonce d'une nouvelle séance.
 
@@ -32,7 +30,7 @@ Vous pouvez également vous abonner à la chaîne YouTube pour recevoir une noti
 
 ## Partenaires
 
-<a href="https://www.ceped.org"><img src="images/logo_ceped.png" style="height:75px; width:auto;"/></a>
+<a href="https://www.ceped.org"><img src="images/logo_ceped.png" style="height:60px; width:auto;"/></a>
 
 <a href="https://www.ird.fr"><img src="images/logo_ird.png" style="height:50px; width:auto;"/></a>
 
