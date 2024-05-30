@@ -12,7 +12,18 @@
       <link>https://larmarange.github.io/webin-R/</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>ven., 08 déc. 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Modèles de comptage (collab Tuto@Mate #62)</title>
+      <dc:creator>Joseph Larmarange</dc:creator>
+      <link>https://larmarange.github.io/webin-R/posts/2024-05-21-modeles-de-comptage-collab-tutomate-62</link>
+      <description>webin-R #25 réalisé dans le cadre de la séance #62 des Tuto@Mate le 21 mai 2024</description>
+      <category>Analyser</category>
+      <category>Avancé</category>
+      <guid>https://larmarange.github.io/webin-R/posts/2024-05-21-modeles-de-comptage-collab-tutomate-62</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <media:content url="https://larmarange.github.io/webin-R/posts/2024-05-21-modeles-de-comptage-collab-tutomate-62/ecran_titre_webin-R_25.png" medium="image" type="image/png" width="1920" height="1080"/>
+    </item>
     <item>
       <title>Prédictions, contrastes &amp; effets marginaux</title>
       <dc:creator>Joseph Larmarange</dc:creator>
@@ -22,7 +33,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2023-12-08-predictions-contrastes-et-effets-marginaux</guid>
-      <pubDate>ven., 08 déc. 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2023-12-08-predictions-contrastes-et-effets-marginaux/ecran_titre_webin-R_24.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -34,7 +45,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2</guid>
-      <pubDate>lun., 20 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-20-tableaux-statistiques-avec-gtsummary-2/ecran_titre_webin-R_23.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -46,7 +57,7 @@
       <category>Intermédiaire</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary</guid>
-      <pubDate>lun., 13 déc. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-12-13-tableaux-statistiques-avec-gtsummary/ecran_titre_webin-R_22.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -58,7 +69,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-06-24-trajectoires-de-soins-5</guid>
-      <pubDate>jeu., 24 juin 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-06-24-trajectoires-de-soins-5/ecran_titre_webin-R_21.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -70,7 +81,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-06-17-trajectoires-de-soins-4</guid>
-      <pubDate>jeu., 17 juin 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-06-17-trajectoires-de-soins-4/ecran_titre_webin-R_20.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -82,7 +93,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-06-10-trajectoires-de-soins-3</guid>
-      <pubDate>jeu., 10 juin 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-06-10-trajectoires-de-soins-3/ecran_titre_webin-R_19.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -94,7 +105,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-05-25-trajectoires-de-soins-2</guid>
-      <pubDate>mar., 25 mai 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-25-trajectoires-de-soins-2/ecran_titre_webin-R_18.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -106,7 +117,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-05-19-trajectoires-de-soins</guid>
-      <pubDate>mer., 19 mai 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-19-trajectoires-de-soins/ecran_titre_webin-R_17.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -117,7 +128,7 @@
       <category>Analyser</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences</guid>
-      <pubDate>jeu., 06 mai 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-05-06-analyses-de-sequences/ecran_titre_webin-R_16.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -128,7 +139,7 @@
       <category>Analyser</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie</guid>
-      <pubDate>jeu., 29 avril 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-29-analyse-de-survie/ecran_titre_webin-R_15.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -140,7 +151,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-04-08-exemples-de-graphiques-avances-2</guid>
-      <pubDate>jeu., 08 avril 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-08-exemples-de-graphiques-avances-2/ecran_titre_webin-R_14.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -152,7 +163,7 @@
       <category>Manipuler</category>
       <category>Avancé</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-04-01-exemples-de-graphiques-avances</guid>
-      <pubDate>jeu., 01 avril 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-04-01-exemples-de-graphiques-avances/ecran_titre_webin-R_13.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -162,7 +173,7 @@
       <description>webin-R FAQ du 25 mars 2021</description>
       <category>FAQ</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03</guid>
-      <pubDate>jeu., 25 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-19-foires-aux-questions-03/ecran_titre_webin-R_FAQ.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -173,7 +184,7 @@
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-18-classification-ascendante-hierarchique-cah</guid>
-      <pubDate>jeu., 18 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-18-classification-ascendante-hierarchique-cah/ecran_titre_webin-R_12.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -184,7 +195,7 @@
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-11-analyse-des-correspondances-multiples-acm</guid>
-      <pubDate>jeu., 11 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-11-analyse-des-correspondances-multiples-acm/ecran_titre_webin-R_11.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -195,7 +206,7 @@
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey</guid>
-      <pubDate>jeu., 04 mars 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-03-04-donnees-ponderees-plan-d-echantillonnage-complexe-et-survey/ecran_titre_webin-R_10.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -206,7 +217,7 @@
       <category>Analyser</category>
       <category>Débutant</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2</guid>
-      <pubDate>jeu., 25 févr. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-02-25-graphiques-uni-et-bivaries-avec-ggplot2/ecran_titre_webin-R_09.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -217,7 +228,7 @@
       <category>Analyser</category>
       <category>Débutant</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques</guid>
-      <pubDate>jeu., 18 févr. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-02-18-ggplot2-et-la-grammaires-des-graphiques/ecran_titre_webin-R_08.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -227,7 +238,7 @@
       <description>webin-R FAQ du 11 février 2021</description>
       <category>FAQ</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02</guid>
-      <pubDate>jeu., 11 févr. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-02-11-foire-aux-questions-02/ecran_titre_webin-R_FAQ.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -238,7 +249,7 @@
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2</guid>
-      <pubDate>jeu., 04 févr. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-02-04-regression-logistique-partie-2/ecran_titre_webin-R_07.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -249,7 +260,7 @@
       <category>Analyser</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1</guid>
-      <pubDate>jeu., 28 janv. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-01-28-regression-logistique-partie-1/ecran_titre_webin-R_06.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -260,7 +271,7 @@
       <category>Manipuler</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables</guid>
-      <pubDate>jeu., 21 janv. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-01-21-recoder-des-variables/ecran_titre_webin-R_05.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -271,7 +282,7 @@
       <category>Manipuler</category>
       <category>Intermédiaire</category>
       <guid>https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr</guid>
-      <pubDate>jeu., 14 janv. 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2021-01-14-manipuler-les-donnees-avec-dplyr/ecran_titre_webin-R_04.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -281,7 +292,7 @@
       <description>webin-R FAQ du 17 décembre 2020</description>
       <category>FAQ</category>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions</guid>
-      <pubDate>jeu., 17 déc. 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2020-12-17-foire-aux-questions/ecran_titre_webin-R_FAQ.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -292,7 +303,7 @@
       <category>Analyser</category>
       <category>Débutant</category>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse</guid>
-      <pubDate>jeu., 10 déc. 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2020-12-10-statistiques-descriptives-avec-gtsummary-et-esquisse/ecran_titre_webin-R_03.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -303,7 +314,7 @@
       <category>Manipuler</category>
       <category>Débutant</category>
       <guid>https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r</guid>
-      <pubDate>jeu., 03 déc. 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2020-12-03-les-bases-du-language-r/ecran_titre_webin-R_02.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
     <item>
@@ -314,7 +325,7 @@
       <category>Manipuler</category>
       <category>Débutant</category>
       <guid>https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio</guid>
-      <pubDate>jeu., 26 nov. 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
       <media:content url="https://larmarange.github.io/webin-R/posts/2020-11-26-premier-contact-avec-r-rstudio/ecran_titre_webin-R_01.png" medium="image" type="image/png" width="1920" height="1080"/>
     </item>
   </channel>
