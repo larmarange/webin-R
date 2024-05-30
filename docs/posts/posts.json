@@ -14,9 +14,9 @@
       "Analyser",
       "Avancé"
     ],
-    "contents": "\n\n\nChapitre guide-R\nModèles de comptage (Poisson & apparentés)\nModèles d’incidence / de taux\nModèles de comptage zero-inflated et hurdle\n\n\n\n",
+    "contents": "\n\n\nDiaporama du Tuto@Mate\nhttps://larmarange.github.io/tuto-mate_modeles_comptage/\nChapitre guide-R\nModèles de comptage (Poisson & apparentés)\nModèles d’incidence / de taux\nModèles de comptage zero-inflated et hurdle\n\n\n\n",
     "preview": "posts/2024-05-21-modeles-de-comptage-collab-tutomate-62/ecran_titre_webin-R_25.png",
-    "last_modified": "2024-05-30T16:12:13+02:00",
+    "last_modified": "2024-05-30T16:26:52+02:00",
     "input_file": {},
     "preview_width": 1920,
     "preview_height": 1080

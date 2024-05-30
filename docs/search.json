@@ -6,14 +6,14 @@
       "description": "un wébinaire sur l'analyse d'enquêtes avec R et RStudio\n",
       "author": [],
       "contents": "\n webin-R est un wébinaire en ligne qui s’appuie guide-R et sur analyse-R dont il en reprend les contenus. Les webin-R seront utilement complétés par , un guide pour l’analyse de données d’enquêtes avec R.\nComment participer ?\nwebin-R est diffusé sur YouTube. Les vidéos sont également accessibles via le menu Séances.\n\n\n\n\n\nPour s’inscrire à la liste de diffusion webin-R et être tenu·e informé·e, il vous suffit d’envoyer un email avec pour objet subscribe webin-R à sympa@listes.ird.fr.\nVous pouvez également vous abonner à la chaîne YouTube pour recevoir une notification à l’annonce d’une nouvelle séance.\nLicence\nLes contenus de ce site sont mis à disposition selon les termes de la Licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International.\nPartenaires\n\n\n\n\n\n\n",
-      "last_modified": "2024-05-30T16:12:38+02:00"
+      "last_modified": "2024-05-30T16:27:03+02:00"
     },
     {
       "path": "seances.html",
       "title": "Séances",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-05-30T16:12:39+02:00"
+      "last_modified": "2024-05-30T16:27:05+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
