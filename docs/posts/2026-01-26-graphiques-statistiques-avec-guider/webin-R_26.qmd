@@ -1,0 +1,171 @@
+---
+title: "webin-R #26 : Graphiques statistiques avec guideR"
+author: "Joseph Larmarange"
+format: 
+  html:
+    table-of-contents: true
+    embed-resources: true
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(guideR)
+data("hdv2003", package = "questionr")
+```
+
+## Variables catégorielles
+
+```{r}
+hdv2003 |> 
+  proportion(nivetud, .na.rm = TRUE, .by = sexe)
+```
+
+```{r}
+library(labelled)
+hdv2003 <-
+  hdv2003 |> 
+  set_variable_labels(
+    sexe = "Sexe",
+    nivetud = "Niveau d'étude",
+    age = "Âge"
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_categorical(
+    sport,
+    by = c(sexe, nivetud, age),
+    flip = TRUE,
+    drop_na_by = TRUE,
+    minimal = TRUE
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_proportions(
+    sport == "Oui",
+    by = c(sexe, nivetud, age),
+    flip = TRUE,
+    drop_na_by = TRUE,
+    minimal = TRUE,
+    fill = "lightblue",
+    show_overall_line = TRUE
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_proportions(
+    (sport == "Oui") |> stratified_by(sexe),
+    by = c(nivetud, age),
+    flip = TRUE,
+    drop_na_by = TRUE,
+    minimal = TRUE,
+    fill = "lightblue",
+    show_overall_line = TRUE
+  )
+```
+
+## Variables continues
+
+```{r}
+hdv2003 |> 
+  group_by(sexe) |> 
+  summarise(m = mean(heures.tv, na.rm = TRUE))
+
+hdv2003 |> 
+  mean_sd(heures.tv, .by = sexe, .conf.int = TRUE)
+```
+
+```{r}
+hdv2003 |> 
+  plot_means(
+    heures.tv,
+    by = c(sexe, nivetud, age),
+    flip = TRUE,
+    drop_na_by = TRUE,
+    minimal = TRUE,
+    colour = "red",
+    show_overall_line = TRUE
+  )
+```
+
+```{r}
+hdv2003 |> 
+  median_iqr(heures.tv, .by = sexe)
+```
+
+```{r}
+hdv2003 |> 
+  plot_continuous(
+    heures.tv,
+    by = c(sexe, nivetud, age),
+    flip = TRUE,
+    drop_na_by = TRUE,
+    minimal = TRUE
+  )
+```
+
+## Question à choix multiples
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers(
+    answers = cuisine:sport,
+    value = "Oui",
+    fill = "lightblue"
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers(
+    answers = cuisine:sport,
+    value = "Oui",
+    fill = "lightblue",
+    combine_answers = TRUE
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers(
+    answers = cuisine:sport,
+    value = "Oui",
+    fill = "lightblue",
+    combine_answers = TRUE,
+    flip = TRUE
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers(
+    answers = cuisine:sport,
+    value = "Oui",
+    fill = "lightblue",
+    by = sexe
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers_dodge(
+    answers = cuisine:sport,
+    value = "Oui",
+    by = sexe
+  )
+```
+
+```{r}
+hdv2003 |> 
+  plot_multiple_answers_dodge(
+    answers = cuisine:sport,
+    value = "Oui",
+    by = sexe,
+    combine_answers = TRUE
+  )
+```

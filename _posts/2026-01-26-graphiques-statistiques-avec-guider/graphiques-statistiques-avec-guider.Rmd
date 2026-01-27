@@ -37,3 +37,4 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Statistique univariée & Intervalles de confiance](https://larmarange.github.io/guide-R/analyses/statistique-univariee.html)
 - [Statistique bivariée & Tests de comparaison](https://larmarange.github.io/guide-R/analyses/statistique-bivariee.html)
 - [Questions à réponses multiples](https://larmarange.github.io/guide-R/analyses/reponses-multiples.html)
+
